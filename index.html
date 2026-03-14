@@ -3,21 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="YoSharma">
+<meta name="theme-color" content="#0a0a0b">
 <title>Nik × Troy ⚡</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.json">
 <script>
 (function(){
-  // Minimal SHA-256 (works without HTTPS/crypto.subtle)
   function sha256(s){
     function rr(n,x){return(n>>>x)|(n<<(32-x));}
-    var K=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,
-      0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,
-      0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,
-      0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,
-      0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,
-      0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,
-      0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,
-      0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2];
+    var K=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2];
     var H=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19];
     var b=[];for(var i=0;i<s.length;i++){var c=s.charCodeAt(i);if(c<128)b.push(c);else if(c<2048){b.push(192|(c>>6));b.push(128|(c&63));}else{b.push(224|(c>>12));b.push(128|((c>>6)&63));b.push(128|(c&63));}}
     var l=b.length*8;b.push(0x80);while(b.length%64!==56)b.push(0);
@@ -31,23 +29,198 @@
     }
     return H.map(function(v){return('00000000'+((v<0?v+4294967296:v).toString(16))).slice(-8);}).join('');
   }
-  var ph='48c6c89b82643c1f7be13312f7f7d68db10c68c48167459e5162ac4c0584c897';
+
+  var ph='d6a69166d21ee0c8a97327cb142adee2201749599f194a27453fc23edc0cde07';
   if(sessionStorage.getItem('cc_auth')==='1')return;
+
   document.addEventListener('DOMContentLoaded',function(){
     document.body.innerHTML='';
-    document.body.style.cssText='background:#0a0a0b;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;font-family:Inter,-apple-system,sans-serif;';
+    document.body.style.cssText='background:#0a0a0b;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;font-family:Inter,-apple-system,sans-serif;overflow:hidden;';
+
     var d=document.createElement('div');
-    d.style.cssText='text-align:center;';
-    d.innerHTML='<div style="font-size:48px;margin-bottom:24px">⚡</div><h1 style="color:#ededef;font-size:22px;margin-bottom:24px;font-weight:600">Nik × Troy</h1><form id="pf" style="margin:0"><input id="pw" type="password" placeholder="Password" style="padding:12px 18px;width:240px;background:#141417;border:1px solid #232329;border-radius:10px;color:#ededef;font-size:14px;font-family:inherit;outline:none;text-align:center" autofocus><br><button type="submit" style="margin-top:16px;padding:10px 32px;background:#6c5ce7;border:none;border-radius:10px;color:#fff;font-size:14px;font-family:inherit;font-weight:500;cursor:pointer">Enter</button></form><p id="err" style="color:#ef4444;font-size:13px;margin-top:12px;opacity:0">Wrong password</p>';
+    d.style.cssText='text-align:center;user-select:none;-webkit-user-select:none;';
+    d.innerHTML='<div style="font-size:48px;margin-bottom:24px">⚡</div><h1 style="color:#ededef;font-size:22px;margin-bottom:32px;font-weight:600">Nik × Troy</h1><canvas id="patternCanvas" width="240" height="240" style="display:block;margin:0 auto;cursor:pointer;touch-action:none;"></canvas><p id="lockHint" style="color:#5c5c63;font-size:13px;margin-top:16px;">Draw pattern to unlock</p><p id="err" style="color:#ef4444;font-size:13px;margin-top:8px;opacity:0;transition:opacity 0.3s">Wrong pattern</p>';
     document.body.appendChild(d);
-    var pw=document.getElementById('pw');
-    var err=document.getElementById('err');
-    document.getElementById('pf').addEventListener('submit',function(e){
+
+    var canvas = document.getElementById('patternCanvas');
+    var ctx = canvas.getContext('2d');
+    var err = document.getElementById('err');
+    var hint = document.getElementById('lockHint');
+
+    // Dot positions (3x3 grid)
+    var dotRadius = 12;
+    var activeRadius = 16;
+    var padding = 40;
+    var spacing = (240 - padding * 2) / 2;
+    var dots = [];
+    for (var row = 0; row < 3; row++) {
+      for (var col = 0; col < 3; col++) {
+        dots.push({
+          id: row * 3 + col + 1,
+          x: padding + col * spacing,
+          y: padding + row * spacing,
+          selected: false
+        });
+      }
+    }
+
+    var selectedDots = [];
+    var isDrawing = false;
+    var currentX = 0, currentY = 0;
+    var wrongFlash = false;
+
+    function drawPattern() {
+      ctx.clearRect(0, 0, 240, 240);
+
+      // Draw lines between selected dots
+      if (selectedDots.length > 1) {
+        ctx.beginPath();
+        ctx.strokeStyle = wrongFlash ? '#ef4444' : '#6c5ce7';
+        ctx.lineWidth = 3;
+        ctx.lineCap = 'round';
+        ctx.lineJoin = 'round';
+        ctx.moveTo(dots[selectedDots[0] - 1].x, dots[selectedDots[0] - 1].y);
+        for (var i = 1; i < selectedDots.length; i++) {
+          ctx.lineTo(dots[selectedDots[i] - 1].x, dots[selectedDots[i] - 1].y);
+        }
+        ctx.stroke();
+      }
+
+      // Draw line to current touch/mouse position
+      if (isDrawing && selectedDots.length > 0) {
+        ctx.beginPath();
+        ctx.strokeStyle = wrongFlash ? '#ef4444' : 'rgba(108,92,231,0.5)';
+        ctx.lineWidth = 3;
+        ctx.lineCap = 'round';
+        var last = dots[selectedDots[selectedDots.length - 1] - 1];
+        ctx.moveTo(last.x, last.y);
+        ctx.lineTo(currentX, currentY);
+        ctx.stroke();
+      }
+
+      // Draw dots
+      for (var j = 0; j < dots.length; j++) {
+        var dot = dots[j];
+        var isSelected = selectedDots.indexOf(dot.id) !== -1;
+
+        // Outer ring
+        ctx.beginPath();
+        ctx.arc(dot.x, dot.y, isSelected ? activeRadius : dotRadius, 0, Math.PI * 2);
+        if (wrongFlash) {
+          ctx.fillStyle = isSelected ? 'rgba(239,68,68,0.2)' : 'rgba(239,68,68,0.08)';
+        } else {
+          ctx.fillStyle = isSelected ? 'rgba(108,92,231,0.2)' : 'rgba(255,255,255,0.05)';
+        }
+        ctx.fill();
+
+        // Inner dot
+        ctx.beginPath();
+        ctx.arc(dot.x, dot.y, isSelected ? 6 : 4, 0, Math.PI * 2);
+        if (wrongFlash) {
+          ctx.fillStyle = isSelected ? '#ef4444' : '#5c5c63';
+        } else {
+          ctx.fillStyle = isSelected ? '#6c5ce7' : '#5c5c63';
+        }
+        ctx.fill();
+      }
+    }
+
+    function getCanvasPos(e) {
+      var rect = canvas.getBoundingClientRect();
+      var scaleX = 240 / rect.width;
+      var scaleY = 240 / rect.height;
+      var clientX, clientY;
+      if (e.touches && e.touches.length > 0) {
+        clientX = e.touches[0].clientX;
+        clientY = e.touches[0].clientY;
+      } else {
+        clientX = e.clientX;
+        clientY = e.clientY;
+      }
+      return {
+        x: (clientX - rect.left) * scaleX,
+        y: (clientY - rect.top) * scaleY
+      };
+    }
+
+    function hitTest(x, y) {
+      for (var i = 0; i < dots.length; i++) {
+        var dx = x - dots[i].x;
+        var dy = y - dots[i].y;
+        if (Math.sqrt(dx * dx + dy * dy) < 28) {
+          return dots[i].id;
+        }
+      }
+      return null;
+    }
+
+    function onStart(e) {
       e.preventDefault();
-      var v=sha256(pw.value);
-      if(v===ph){sessionStorage.setItem('cc_auth','1');location.reload();}
-      else{err.style.opacity='1';pw.value='';pw.style.borderColor='#ef4444';}
-    });
+      if (wrongFlash) return;
+      isDrawing = true;
+      selectedDots = [];
+      err.style.opacity = '0';
+      var pos = getCanvasPos(e);
+      currentX = pos.x;
+      currentY = pos.y;
+      var hit = hitTest(pos.x, pos.y);
+      if (hit) selectedDots.push(hit);
+      drawPattern();
+    }
+
+    function onMove(e) {
+      e.preventDefault();
+      if (!isDrawing) return;
+      var pos = getCanvasPos(e);
+      currentX = pos.x;
+      currentY = pos.y;
+      var hit = hitTest(pos.x, pos.y);
+      if (hit && selectedDots.indexOf(hit) === -1) {
+        selectedDots.push(hit);
+      }
+      drawPattern();
+    }
+
+    function onEnd(e) {
+      e.preventDefault();
+      if (!isDrawing) return;
+      isDrawing = false;
+      if (selectedDots.length < 2) {
+        selectedDots = [];
+        drawPattern();
+        return;
+      }
+      var pattern = selectedDots.join('-');
+      var hash = sha256(pattern);
+      if (hash === ph) {
+        sessionStorage.setItem('cc_auth', '1');
+        location.reload();
+      } else {
+        wrongFlash = true;
+        err.style.opacity = '1';
+        drawPattern();
+        setTimeout(function() {
+          wrongFlash = false;
+          selectedDots = [];
+          err.style.opacity = '0';
+          drawPattern();
+        }, 600);
+      }
+    }
+
+    // Mouse events
+    canvas.addEventListener('mousedown', onStart);
+    canvas.addEventListener('mousemove', onMove);
+    canvas.addEventListener('mouseup', onEnd);
+    canvas.addEventListener('mouseleave', onEnd);
+
+    // Touch events
+    canvas.addEventListener('touchstart', onStart, { passive: false });
+    canvas.addEventListener('touchmove', onMove, { passive: false });
+    canvas.addEventListener('touchend', onEnd, { passive: false });
+    canvas.addEventListener('touchcancel', onEnd, { passive: false });
+
+    drawPattern();
   });
 })();
 </script>
@@ -311,6 +484,52 @@
     margin-top: 2px;
   }
 
+  .card-status-line {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-top: 8px;
+    font-size: 12.5px;
+    color: #c8c8cc;
+    line-height: 1.4;
+  }
+
+  .card-status-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--active);
+    flex-shrink: 0;
+  }
+
+  .card-activity {
+    margin-top: 10px;
+    padding-left: 2px;
+    border-left: 2px solid var(--border);
+    margin-left: 3px;
+  }
+
+  .card-activity-item {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    padding: 3px 0 3px 10px;
+    font-size: 11.5px;
+    line-height: 1.45;
+  }
+
+  .activity-date {
+    color: var(--text-tertiary);
+    font-weight: 500;
+    white-space: nowrap;
+    min-width: 30px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .activity-text {
+    color: var(--text-secondary);
+  }
+
   .alert-badge {
     display: inline-flex;
     align-items: center;
@@ -425,38 +644,69 @@
 const projects = [
   {
     name: "Zurp LLC",
-    desc: "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy. Stripe payments, custom app. CURRENT: Meeting with Nikki Sanders at Gospel NYC to discuss station placement. NEXT: Finalize venue contracts, deploy first stations.",
+    desc: "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
+    currentStatus: "Meeting with Gospel NYC today to discuss station placement",
+    recentActivity: [
+      { date: "3/14", text: "ZURP × Gospel meeting scheduled 4-5pm" },
+      { date: "3/13", text: "Troy sent calendar invite for Gospel meeting" },
+      { date: "3/12", text: "Stripe payments integration completed" }
+    ],
     status: "active",
     updated: "2026-03-14",
-    alert: "ZURP × Gospel meeting Sat 3/14 4–5pm"
+    alert: "ZURP × Gospel meeting Sat 3/14 4\u20135pm"
   },
   {
     name: "Rolling Ventures",
-    desc: "Boutique venture fund — consumer/tech/culture investing. CURRENT: Evaluating deal flow. Recent PEF deal: Multi-Family REIT Fund (25.2% IRR, 2.42x equity multiple). NEXT: Rolling Ventures TB call this week.",
+    desc: "Boutique venture fund \u2014 consumer/tech/culture investing.",
+    currentStatus: "Evaluating deal flow. TB call scheduled this week.",
+    recentActivity: [
+      { date: "3/13", text: "PEF deal flow: Multi-Family REIT Fund (25.2% IRR, 2.42x)" },
+      { date: "3/13", text: "Rolling Ventures TB call on calendar" }
+    ],
     status: "active",
     updated: "2026-03-14"
   },
   {
     name: "After Ours / Pigeon House Records",
-    desc: "Tech house/dark house with Minul. Label: Pigeon House Records. CURRENT: \"My Mind\" just went live today (3/14). NEXT: Promote release, plan next track.",
+    desc: "Tech house/dark house with Minul. Label: Pigeon House Records.",
+    currentStatus: "\"My Mind\" just went live today",
+    recentActivity: [
+      { date: "3/14", text: "\"My Mind\" released \u2014 now streaming" },
+      { date: "3/13", text: "Final master delivered" }
+    ],
     status: "active",
     updated: "2026-03-14"
   },
   {
     name: "Chef Trey",
-    desc: "Private chef, comes weekly on Wednesdays. CURRENT: Regular weekly schedule locked in. NEXT: Wednesday 3/18 — confirm menu/headcount.",
+    desc: "Private chef, comes weekly on Wednesdays.",
+    currentStatus: "Regular weekly schedule locked in",
+    recentActivity: [
+      { date: "3/12", text: "Wednesday dinner \u2014 menu confirmed" },
+      { date: "3/5", text: "Previous Wednesday session" }
+    ],
     status: "active",
     updated: "2026-03-14"
   },
   {
     name: "Macra",
-    desc: "Own supplement brand, pre-launch. HP-719 (mood booster: saffron, rhodiola, L-theanine) and CB-628 (carb blocker: white kidney bean, green tea, chromium). CURRENT: Melcorp sent updated tin sample CAD — awaiting confirmation on embossed logo mould ($400 sample fee, 14-18 day lead). NEXT: Approve mould, finalize packaging, build out site and email flows.",
+    desc: "Own supplement brand, pre-launch. HP-719 (mood booster) and CB-628 (carb blocker).",
+    currentStatus: "Awaiting Rameez confirmation on embossed logo mould ($400, 14-18 day lead)",
+    recentActivity: [
+      { date: "3/13", text: "Tony (Melcorp) sent updated tin sample CAD" },
+      { date: "3/12", text: "Rameez coordinating with factory on new samples" },
+      { date: "3/10", text: "Formulation finalized for both SKUs" }
+    ],
     status: "active",
     updated: "2026-03-14"
   },
   {
     name: "Kids Vitamin Brand",
-    desc: "Early-stage, self-funded. ~4 month launch timeline. CURRENT: Concept and formulation phase. NEXT: Finalize product formulation, begin brand identity work.",
+    desc: "Early-stage, self-funded. ~4 month launch timeline.",
+    currentStatus: "Concept and formulation research phase",
+    recentActivity: [
+      { date: "3/14", text: "Project scoped \u2014 4 month target timeline set" }
+    ],
     status: "active",
     updated: "2026-03-14"
   }
@@ -476,22 +726,41 @@ function sortProjects(list) {
   });
 }
 
+function escapeHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
 function renderCard(p, i) {
   const hasAlert = p.alert ? 'has-alert' : '';
   const date = new Date(p.updated + 'T00:00:00');
   const formatted = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
   const alertHtml = p.alert
-    ? `<div class="alert-badge"><span class="alert-icon">⚠</span> ${p.alert}</div>`
+    ? `<div class="alert-badge"><span class="alert-icon">\u26A0</span> ${escapeHtml(p.alert)}</div>`
     : '';
+
+  let statusLineHtml = '';
+  if (p.currentStatus) {
+    statusLineHtml = `<div class="card-status-line"><span class="card-status-dot"></span>${escapeHtml(p.currentStatus)}</div>`;
+  }
+
+  let activityHtml = '';
+  if (p.recentActivity && p.recentActivity.length > 0) {
+    const items = p.recentActivity.map(a =>
+      `<div class="card-activity-item"><span class="activity-date">${escapeHtml(a.date)}</span><span class="activity-text">${escapeHtml(a.text)}</span></div>`
+    ).join('');
+    activityHtml = `<div class="card-activity">${items}</div>`;
+  }
 
   return `
     <div class="card ${hasAlert}" style="animation-delay: ${i * 30}ms">
       <div class="card-main">
         <div class="card-header">
-          <span class="card-name">${p.name}</span>
+          <span class="card-name">${escapeHtml(p.name)}</span>
           <span class="status-tag status-${p.status}"><span class="status-dot"></span>${p.status}</span>
         </div>
-        <div class="card-desc">${p.desc}</div>
+        <div class="card-desc">${escapeHtml(p.desc)}</div>
+        ${statusLineHtml}
+        ${activityHtml}
         ${alertHtml}
       </div>
       <div class="card-meta">
@@ -516,7 +785,9 @@ function render() {
       p.name.toLowerCase().includes(q) ||
       p.desc.toLowerCase().includes(q) ||
       p.status.toLowerCase().includes(q) ||
-      (p.alert && p.alert.toLowerCase().includes(q))
+      (p.alert && p.alert.toLowerCase().includes(q)) ||
+      (p.currentStatus && p.currentStatus.toLowerCase().includes(q)) ||
+      (p.recentActivity && p.recentActivity.some(a => a.text.toLowerCase().includes(q)))
     );
   }
 
