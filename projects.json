@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1 (now 24h+ elapsed). UnKommon x Zurp agreement (Miami expansion) — monitor signature. Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
-    "alert": "Recap + next steps from Jack call owed — Day 1 (24h+)",
+    "currentStatus": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature pending. Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1 (24h+ elapsed). UnKommon x Zurp agreement (Miami expansion) — monitor signature. Indoor unit live. 50/50 rev split.",
+    "alert": "Docusign ALEC x ZURP viewed — signature pending + Jack recap owed",
     "recentActivity": [
+      {
+        "date": "4/23",
+        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature pending"
+      },
       {
         "date": "4/23",
         "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1 (24h+ elapsed)"
@@ -126,7 +130,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23"
+    "updated": "2026-04-23T18:01"
   },
   {
     "name": "Rolling Ventures",
