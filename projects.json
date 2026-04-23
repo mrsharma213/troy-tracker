@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1. UnKommon x Zurp agreement (Miami expansion) — monitor signature. Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
-    "alert": "Recap + next steps from Jack call owed — Day 1",
+    "currentStatus": "Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1 (now 24h+ elapsed). UnKommon x Zurp agreement (Miami expansion) — monitor signature. Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
+    "alert": "Recap + next steps from Jack call owed — Day 1 (24h+)",
     "recentActivity": [
       {
         "date": "4/23",
-        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1"
+        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1 (24h+ elapsed)"
       },
       {
         "date": "4/22",
@@ -131,7 +131,7 @@
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "📅 Rolling Ventures TB TOMORROW Fri 4/24 1:30pm ET. Instant x Nik (Jaime Egan) 4/22 wrapped — recap/next steps owed. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. Jake Valentine (Claymore) reply pending. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
+    "currentStatus": "📅 Rolling Ventures TB TOMORROW Fri 4/24 1:30pm ET (<24h). Instant x Nik (Jaime Egan) 4/22 wrapped — recap/next steps owed. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. Jake Valentine (Claymore) reply pending. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
     "alert": "⚠️ unspun B-3 signature ASAP + RV TB tomorrow 1:30pm",
     "recentActivity": [
       {
@@ -435,7 +435,7 @@
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "🍽️ Weekly dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/30 — confirm next week.",
+    "currentStatus": "🍽️ Weekly dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm next week.",
     "recentActivity": [
       {
         "date": "4/22",
@@ -471,7 +471,7 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Wed 4/30",
+        "date": "Wed 4/29",
         "event": "🍽️ Next weekly dinner — confirm next week"
       }
     ],
@@ -483,11 +483,11 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "💊 Day 7 post-launch — Carb Curb™ + Mood Bloom™ launched Apr 16. 🔴 Macra TB TODAY Thu 4/23 3:00pm ET + Lunar Leadership TB 3:30pm ET. Pending: grant Rameez PDP Carousels Figma access + review 'Nik Content' Drive folder. ALL 3 TRADEMARKS FILED. $30K ad spend deploying.",
+    "currentStatus": "💊 Day 7 post-launch — Carb Curb™ + Mood Bloom™ launched Apr 16. 🔴 Macra TB TODAY 3pm ET (in 3h) + Lunar Leadership TB 3:30pm ET. Pending: grant Rameez PDP Carousels Figma access + review 'Nik Content' Drive folder. ALL 3 TRADEMARKS FILED. $30K ad spend deploying.",
     "recentActivity": [
       {
         "date": "4/23",
-        "text": "🔴 TODAY Thu 4/23 3:00pm ET: Macra TB + 3:30pm Lunar Leadership TB"
+        "text": "🔴 Macra TB 3pm ET (in 3h) + 3:30pm Lunar Leadership TB"
       },
       {
         "date": "4/23",
@@ -604,7 +604,7 @@
     ],
     "status": "active",
     "updated": "2026-04-23",
-    "alert": "🔴 Macra TB TODAY 3pm + Lunar TB 3:30pm • Day 7 post-launch"
+    "alert": "🔴 Macra TB 3pm (in 3h) + Lunar TB 3:30pm • Day 7 post-launch"
   },
   {
     "name": "Authentiq",
@@ -709,8 +709,12 @@
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "flexpower.nik.co updated: Department Media (was PaulStreet). Marcus Waters + Paul Natali added. Dylan x Nik call completed 4/14. No new activity.",
+    "currentStatus": "✅ Flexpower Chat 12:00-12:30pm ET WRAPPED today 4/23 — recap/next steps pending. flexpower.nik.co current: Department Media (was PaulStreet). Marcus Waters + Paul Natali added.",
     "recentActivity": [
+      {
+        "date": "4/23",
+        "text": "✅ Flexpower Chat 12-12:30pm ET WRAPPED — recap pending"
+      },
       {
         "date": "4/15",
         "text": "🔄 flexpower.nik.co updated: PaulStreet renamed to Department Media. Marcus Waters + Paul Natali added."
@@ -764,6 +768,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-16"
+    "updated": "2026-04-23",
+    "alert": "Flexpower Chat recap/next steps owed"
   }
 ]
