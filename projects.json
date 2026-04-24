@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (1h out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
-    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (1h) • Alec Docusign 22h+ • Jack recap Day 2 overdue",
+    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (53m out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
+    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (53m) • Alec Docusign 22h+ • Jack recap Day 2 overdue",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (1h out)"
+        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (53m out)"
       },
       {
         "date": "4/24",
@@ -110,7 +110,7 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 TODAY Fri 4/24 5pm (1h)",
+        "date": "🔥 TODAY Fri 4/24 5pm (53m)",
         "event": "Cordell <> Troy <> Nik"
       },
       {
@@ -142,7 +142,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24T16:00"
+    "updated": "2026-04-24T16:07"
   },
   {
     "name": "Rolling Ventures",
