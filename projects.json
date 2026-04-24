@@ -2,16 +2,20 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature pending. Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1 (24h+ elapsed). UnKommon x Zurp agreement (Miami expansion) — monitor signature. Indoor unit live. 50/50 rev split.",
-    "alert": "Docusign ALEC x ZURP viewed — signature pending + Jack recap owed",
+    "currentStatus": "📅 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik. Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (16h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
+    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm • Alec Docusign signature pending • Jack recap Day 2 overdue",
     "recentActivity": [
       {
-        "date": "4/23",
-        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature pending"
+        "date": "4/24",
+        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (7h out)"
       },
       {
         "date": "4/23",
-        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1 (24h+ elapsed)"
+        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (17h+)"
+      },
+      {
+        "date": "4/23",
+        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 2 overdue"
       },
       {
         "date": "4/22",
@@ -102,6 +106,10 @@
     ],
     "upcomingEvents": [
       {
+        "date": "🔥 TODAY Fri 4/24 5pm",
+        "event": "Cordell <> Troy <> Nik"
+      },
+      {
         "date": "Wed 4/22 2pm",
         "event": "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)"
       }
@@ -130,17 +138,17 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23T18:01"
+    "updated": "2026-04-24T09:03"
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "📅 Rolling Ventures TB TOMORROW Fri 4/24 1:30pm ET (~20h out). Instant x Nik (Jaime Egan) 4/22 wrapped — recap/next steps owed (Day 1). Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. Jake Valentine (Claymore) reply pending. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
-    "alert": "⚠️ unspun B-3 signature ASAP + RV TB tomorrow 1:30pm",
+    "currentStatus": "🔥 TODAY Fri 4/24 1:30pm ET: Rolling Ventures TB (weekly). Instant x Nik (Jaime Egan) 4/22 wrapped — recap/next steps owed Day 2. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. Jake Valentine (Claymore) reply pending. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
+    "alert": "🔥 RV TB TODAY 1:30pm • ⚠️ unspun B-3 signature ASAP",
     "recentActivity": [
       {
-        "date": "4/23",
-        "text": "📅 RV TB TOMORROW Fri 4/24 1:30pm ET — weekly sync"
+        "date": "4/24",
+        "text": "🔥 TODAY 1:30pm ET: RV TB weekly sync"
       },
       {
         "date": "4/22",
@@ -272,8 +280,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "TOMORROW Fri 4/24 1:30pm",
-        "event": "📅 Rolling Ventures TB (weekly)"
+        "date": "🔥 TODAY Fri 4/24 1:30pm",
+        "event": "Rolling Ventures TB (weekly)"
       },
       {
         "date": "Wed 4/22 4:30pm",
@@ -320,16 +328,20 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23"
+    "updated": "2026-04-24"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Studio sessions 4/22 both wrapped (5-6pm + 7-10pm). Zagged Dinner 4/22 wrapped w/ Simon Wool. Post-show Day 5 from Somewhere Nowhere NYC — still awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "currentStatus": "Release lock-in wrapped 4/23 10:30pm (Minul). Studio sessions 4/22 wrapped (5-6pm + 7-10pm). Post-show Day 6 from Somewhere Nowhere NYC — still awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
+        "date": "4/24",
+        "text": "Post-show Day 6 — pro media/videographer assets still owed"
+      },
+      {
         "date": "4/23",
-        "text": "Post-show Day 5 — pro media/videographer assets still owed"
+        "text": "✅ AO release lock-in 10:30pm WRAPPED (Minul)"
       },
       {
         "date": "4/22",
@@ -433,13 +445,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23",
+    "updated": "2026-04-24",
     "alert": "Brand voice brief owed to Brandon • videographer assets still to pull"
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "🍽️ Weekly dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm next week.",
+    "currentStatus": "🍽️ Weekly dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue next week.",
     "recentActivity": [
       {
         "date": "4/22",
@@ -482,20 +494,24 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-23"
+    "updated": "2026-04-24"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "💊 Day 8 post-launch — Carb Curb™ + Mood Bloom™ launched Apr 16. ✅ Macra TB 3pm + Lunar Leadership TB 3:30pm both WRAPPED. Pending: grant Rameez PDP Carousels Figma access + review 'Nik Content' Drive folder. ALL 3 TRADEMARKS FILED. $30K ad spend deploying.",
+    "currentStatus": "💊 Day 9 post-launch — Carb Curb™ + Mood Bloom™ launched Apr 16. 💰 NEW 4/24 3:15am: Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build. ✅ Macra TB 3pm + Lunar Leadership TB 3:30pm both WRAPPED 4/23. Pending: grant Rameez PDP Carousels Figma access + review 'Nik Content' Drive folder. ALL 3 TRADEMARKS FILED. $30K ad spend deploying.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build — review + pay"
+      },
       {
         "date": "4/23",
         "text": "✅ Macra TB 3pm + Lunar Leadership TB 3:30pm both WRAPPED"
       },
       {
-        "date": "4/23",
-        "text": "💊 Day 8 post-launch — monitoring sales/ad performance"
+        "date": "4/24",
+        "text": "💊 Day 9 post-launch — monitoring sales/ad performance"
       },
       {
         "date": "4/22",
@@ -607,8 +623,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23",
-    "alert": "Day 8 post-launch — Macra TB + Lunar TB both wrapped"
+    "updated": "2026-04-24",
+    "alert": "💰 Dillon invoice $3,480 in — review • Day 9 post-launch"
   },
   {
     "name": "Authentiq",
