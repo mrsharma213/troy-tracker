@@ -2,12 +2,20 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (53m out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
-    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (53m) • Alec Docusign 22h+ • Jack recap Day 2 overdue",
+    "currentStatus": "5:30-6:30pm Amoria/Cordell meet live with Nik, Troy, Dil, Rameez, Jim, Gisela, Frank. Alec Docusign still pending after 4/23 view. Jack recap/next steps still overdue. UnKommon Miami signature monitor.",
+    "alert": "🔥 Amoria/Cordell meet live until 6:30pm • Alec signature pending • Jack recap overdue",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (53m out)"
+        "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
+      },
+      {
+        "date": "4/24",
+        "text": "📅 Calendar changed from Cordell<>Troy<>Nik to Amoria meet; capture post-call next steps"
+      },
+      {
+        "date": "4/24",
+        "text": "🔥 NOW 5pm ET: Cordell <> Troy <> Nik — LIVE"
       },
       {
         "date": "4/24",
@@ -110,8 +118,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 TODAY Fri 4/24 5pm (53m)",
-        "event": "Cordell <> Troy <> Nik"
+        "date": "🔥 NOW 5:30pm Fri 4/24",
+        "event": "Amoria/Cordell meet — live until 6:30pm"
       },
       {
         "date": "Wed 4/22 2pm",
@@ -142,7 +150,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24T16:07"
+    "updated": "2026-04-24T17:00"
   },
   {
     "name": "Rolling Ventures",
@@ -503,8 +511,12 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "💊 Day 9 post-launch — Carb Curb™ + Mood Bloom™ launched Apr 16. 💰 NEW 4/24 3:15am: Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build. ✅ Macra TB 3pm + Lunar Leadership TB 3:30pm both WRAPPED 4/23. Pending: grant Rameez PDP Carousels Figma access + review 'Nik Content' Drive folder. ALL 3 TRADEMARKS FILED. $30K ad spend deploying.",
+    "currentStatus": "Day 9 post-launch. Paid media remains gated on email flows. Dillon $3,480 invoice still needs review. Rameez Figma/Nik Content access tasks remain open. No fresh Macra-specific email/calendar since last refresh.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "📭 No fresh Macra-specific email/calendar since last refresh; existing launch QA/invoice items still open"
+      },
       {
         "date": "4/24",
         "text": "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build — review + pay"
@@ -733,8 +745,12 @@
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "✅ Flexpower Chat 12:00-12:30pm ET WRAPPED today 4/23 — recap/next steps pending. flexpower.nik.co current: Department Media (was PaulStreet). Marcus Waters + Paul Natali added.",
+    "currentStatus": "Jim Jannuzzio Google Docs comment at 4:15pm: “take this out.” Flexpower/Giannis proposal, terms, and 6-week timeline remain owed by ~Apr 30.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "📝 Jim Jannuzzio Google Docs comment on Flexpower doc: “take this out”"
+      },
       {
         "date": "4/23",
         "text": "✅ Flexpower Chat 12-12:30pm ET WRAPPED — recap pending"
@@ -796,3 +812,4 @@
     "alert": "Flexpower Chat recap/next steps owed"
   }
 ]
+
