@@ -2,16 +2,20 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "📅 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (5h out). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (18h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
-    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (5h) • Alec Docusign pending 18h+ • Jack recap Day 2 overdue",
+    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (1h out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+ elapsed). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
+    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (1h) • Alec Docusign 22h+ • Jack recap Day 2 overdue",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (5h out)"
+        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (1h out)"
+      },
+      {
+        "date": "4/24",
+        "text": "💸 Mercury 2:27pm: Minul $240 wire → Zhangjiagang Melcorp (hardware supplier)"
       },
       {
         "date": "4/23",
-        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (18h+)"
+        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (21h+)"
       },
       {
         "date": "4/23",
@@ -106,7 +110,7 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 TODAY Fri 4/24 5pm",
+        "date": "🔥 TODAY Fri 4/24 5pm (1h)",
         "event": "Cordell <> Troy <> Nik"
       },
       {
@@ -138,17 +142,17 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24T09:03"
+    "updated": "2026-04-24T16:00"
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "🔥 TODAY Fri 4/24 1:30pm ET: Rolling Ventures TB (weekly). Instant x Nik (Jaime Egan) 4/22 wrapped — recap/next steps owed Day 2. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. Jake Valentine (Claymore) reply pending. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
-    "alert": "🔥 RV TB TODAY 1:30pm • ⚠️ unspun B-3 signature ASAP",
+    "currentStatus": "✅ RV TB weekly sync WRAPPED 1:30-2:00pm ET 4/24 — recap/next steps owed. Instant x Nik (Jaime Egan) 4/22 wrapped — Day 2 recap still pending. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
+    "alert": "⚠️ unspun B-3 signature ASAP • Jaime Egan recap Day 2 • RV TB recap owed",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 TODAY 1:30pm ET: RV TB weekly sync"
+        "text": "✅ RV TB weekly sync WRAPPED 1:30-2pm ET — recap owed"
       },
       {
         "date": "4/22",
@@ -280,8 +284,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 TODAY Fri 4/24 1:30pm",
-        "event": "Rolling Ventures TB (weekly)"
+        "date": "✅ TODAY 1:30pm",
+        "event": "Rolling Ventures TB — WRAPPED (recap owed)"
       },
       {
         "date": "Wed 4/22 4:30pm",
