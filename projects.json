@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "5:30-6:30pm Amoria/Cordell meet live with Nik, Troy, Dil, Rameez, Jim, Gisela, Frank. Alec Docusign still pending after 4/23 view. Jack recap/next steps still overdue. UnKommon Miami signature monitor.",
-    "alert": "🔥 Amoria/Cordell meet live until 6:30pm • Alec signature pending • Jack recap overdue",
+    "currentStatus": "Sun 4/26 8am quiet. Amoria meet WRAPPED Fri 4/24 5:30-6:30pm — capture post-call next steps Mon. Alec Docusign still pending after 4/23 view (Day 4, 90h+). Jack recap/next steps still overdue (Day 4). UnKommon Miami signature monitor.",
+    "alert": "📝 Amoria meet recap owed • Alec signature pending Day 4 • Jack recap overdue Day 4",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
+        "text": "✅ Amoria meet WRAPPED 5:30-6:30pm ET — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik (recap owed)"
       },
       {
         "date": "4/24",
@@ -15,19 +15,15 @@
       },
       {
         "date": "4/24",
-        "text": "🔥 NOW 5pm ET: Cordell <> Troy <> Nik — LIVE"
-      },
-      {
-        "date": "4/24",
         "text": "💸 Mercury 2:27pm: Minul $240 wire → Zhangjiagang Melcorp (hardware supplier)"
       },
       {
         "date": "4/23",
-        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (21h+)"
+        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (Day 3, 70h+)"
       },
       {
         "date": "4/23",
-        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 2 overdue"
+        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 3+ overdue"
       },
       {
         "date": "4/22",
@@ -118,8 +114,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 NOW 5:30pm Fri 4/24",
-        "event": "Amoria/Cordell meet — live until 6:30pm"
+        "date": "✅ Fri 4/24 5:30pm",
+        "event": "Amoria/Cordell meet — WRAPPED (recap owed)"
       },
       {
         "date": "Wed 4/22 2pm",
@@ -150,13 +146,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24T17:00"
+    "updated": "2026-04-26T08:00"
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "✅ RV TB weekly sync WRAPPED 1:30-2:00pm ET 4/24 — recap/next steps owed. Instant x Nik (Jaime Egan) 4/22 wrapped — Day 2 recap still pending. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
-    "alert": "⚠️ unspun B-3 signature ASAP • Jaime Egan recap Day 2 • RV TB recap owed",
+    "currentStatus": "Sun 4/26 8am quiet weekend. RV TB WRAPPED Fri 4/24 — recap/next steps still owed. Instant x Nik (Jaime Egan) 4/22 wrapped — Day 4 recap still pending. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
+    "alert": "⚠️ unspun B-3 signature ASAP • Jaime Egan recap Day 4 • RV TB recap owed",
     "recentActivity": [
       {
         "date": "4/24",
@@ -292,7 +288,7 @@
     ],
     "upcomingEvents": [
       {
-        "date": "✅ TODAY 1:30pm",
+        "date": "✅ Fri 4/24 1:30pm",
         "event": "Rolling Ventures TB — WRAPPED (recap owed)"
       },
       {
@@ -340,16 +336,20 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24"
+    "updated": "2026-04-26T08:00"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Release lock-in wrapped 4/23 10:30pm (Minul). Studio sessions 4/22 wrapped (5-6pm + 7-10pm). Post-show Day 6 from Somewhere Nowhere NYC — still awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "currentStatus": "Sun 4/26 8am. Post-show Day 8 from Somewhere Nowhere NYC — videographer/pro media pull-through still outstanding. Release lock-in wrapped 4/23 10:30pm (Minul). Brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
+        "date": "4/25",
+        "text": "Post-show Day 8 (Sat 10pm) — quiet weekend, videographer assets still owed"
+      },
+      {
         "date": "4/24",
-        "text": "Post-show Day 6 — pro media/videographer assets still owed"
+        "text": "Post-show Day 7 — pro media/videographer assets still owed"
       },
       {
         "date": "4/23",
@@ -457,13 +457,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24",
+    "updated": "2026-04-25",
     "alert": "Brand voice brief owed to Brandon • videographer assets still to pull"
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "🍽️ Weekly dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue next week.",
+    "currentStatus": "🍽️ Last dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue. Sun 4/26 8am quiet.",
     "recentActivity": [
       {
         "date": "4/22",
@@ -506,13 +506,17 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-24"
+    "updated": "2026-04-25"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Day 9 post-launch. Paid media remains gated on email flows. Dillon $3,480 invoice still needs review. Rameez Figma/Nik Content access tasks remain open. No fresh Macra-specific email/calendar since last refresh.",
+    "currentStatus": "Day 10 post-launch (Sun 4/26 8am). Paid media remains gated on email flows. Dillon $3,480 invoice still needs review Mon. Rameez Figma/Nik Content access tasks remain open. Quiet weekend evening.",
     "recentActivity": [
+      {
+        "date": "4/25",
+        "text": "💊 Day 10 post-launch (Sat 10pm) — quiet weekend, monitoring sales/ad performance"
+      },
       {
         "date": "4/24",
         "text": "📭 No fresh Macra-specific email/calendar since last refresh; existing launch QA/invoice items still open"
@@ -639,13 +643,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24",
-    "alert": "💰 Dillon invoice $3,480 in — review • Day 9 post-launch"
+    "updated": "2026-04-26T08:00",
+    "alert": "💰 Dillon invoice $3,480 in — review Mon • Day 10 post-launch"
   },
   {
     "name": "Authentiq",
     "desc": "NFC-based authentication platform for high-value consumer goods.",
-    "currentStatus": "📇 Dil P (yo.vc) requested quote for 500 Mirrored Metal NFC Business Cards 4/21 — ties to Authentiq. 💾 Troy 'custom USBs' thread now 46 msgs deep (9:28am 4/21). Features doc still awaiting Troy review (6 days).",
+    "currentStatus": "📇 Dil P (yo.vc) print thread now 59 msgs deep (latest 4/24 2:29pm — Dil replied). 💾 Troy 'custom USBs' thread 46 msgs deep. Features doc still awaiting Troy review (10+ days).",
     "recentActivity": [
       {
         "date": "4/21",
@@ -712,8 +716,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-21",
-    "alert": "Dil P NFC business card quote request + Troy review of features doc (6 days overdue)"
+    "updated": "2026-04-26T08:00",
+    "alert": "Dil P NFC business cards thread 59 msgs (Dil replied 4/24) • Troy features doc review 10+ days overdue"
   },
   {
     "name": "Kids Vitamin Brand",
@@ -812,4 +816,3 @@
     "alert": "Flexpower Chat recap/next steps owed"
   }
 ]
-
