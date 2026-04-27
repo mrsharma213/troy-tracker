@@ -2,7 +2,7 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Mon 4/27 11am. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view 4/23 5:48pm). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor (sent 4/21). Zurp Check-In Tue 4/28 11:30am.",
+    "currentStatus": "Mon 4/27 1pm. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view 4/23 5:48pm). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor (sent 4/21). Zurp Check-In Tue 4/28 11:30am.",
     "alert": "📝 Amoria recap owed TODAY • Alec signature Day 5 • Jack recap overdue Day 5",
     "recentActivity": [
       {
@@ -151,7 +151,7 @@
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Mon 4/27 11am. RV TB WRAPPED Fri 4/24 — recap/next steps still owed (Day 3). Instant x Nik (Jaime Egan) recap now Day 5+. Tue 4/28 stacks: PDQ 3pm, Instant 4pm, Matt 4:30pm. Data-First Commerce event Tue 6-8:30pm. Mon 4pm Prep for Leftlane → 5pm Left Lane in-person w/ Troy/Rohit.",
+    "currentStatus": "Mon 4/27 1pm. RV TB WRAPPED Fri 4/24 — recap/next steps still owed (Day 3). Instant x Nik (Jaime Egan) recap now Day 5+. Tue 4/28 stacks: PDQ 3pm, Instant 4pm, Matt 4:30pm. Data-First Commerce event Tue 6-8:30pm. 🔥 TODAY 4pm Prep for Leftlane (Facetime) → 5pm Left Lane in-person w/ Troy/Rohit.",
     "alert": "📝 RV recap owed (Day 3) • Instant recap Day 5+ • Mon 5pm Left Lane in-person",
     "recentActivity": [
       {
@@ -341,7 +341,7 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Mon 4/27 11am. Post-show Day 9 from Somewhere Nowhere NYC. 🔴 Two signals from this AM: Manus rebuilding afterourssound.com (Spotify stats refresh, 9:04am) + Minul wired $650 to CG Videos LLC (videographer payment, 9:05am). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
+    "currentStatus": "Mon 4/27 1pm. Post-show Day 9 from Somewhere Nowhere NYC. 🔴 Two signals from this AM: Manus rebuilding afterourssound.com (Spotify stats refresh, 9:04am) + Minul wired $650 to CG Videos LLC (videographer payment, 9:05am). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
     "recentActivity": [
       {
         "date": "4/27",
@@ -471,7 +471,7 @@
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "🍽️ Last dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue. Mon 4/27 11am quiet.",
+    "currentStatus": "🍽️ Last dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue. Mon 4/27 1pm quiet.",
     "recentActivity": [
       {
         "date": "4/22",
@@ -519,7 +519,7 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Day 11 post-launch (Mon 4/27 11am). Paid media remains gated on email flows. Dillon $3,480 invoice review tops Mon AM. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. All 3 trademarks filed. ~$30K initial ad spend deploying — monitoring early performance.",
+    "currentStatus": "Day 11 post-launch (Mon 4/27 1pm). Paid media remains gated on email flows. Dillon $3,480 invoice review still pending. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. All 3 trademarks filed. ~$30K initial ad spend deploying — monitoring early performance.",
     "recentActivity": [
       {
         "date": "4/25",
@@ -657,7 +657,7 @@
   {
     "name": "Authentiq",
     "desc": "NFC-based authentication platform for high-value consumer goods.",
-    "currentStatus": "📇 Dil P (yo.vc) print thread now 59 msgs deep (latest 4/24 2:29pm — Dil replied). 💾 Troy 'custom USBs' thread 46 msgs deep. Features doc still awaiting Troy review (10+ days).",
+    "currentStatus": "📇 Dil P (yo.vc) print thread now 59 msgs deep (latest 4/24 2:29pm — Dil replied). 💾 Troy 'custom USBs' thread 46 msgs deep. Features doc still awaiting Troy review (11+ days).",
     "recentActivity": [
       {
         "date": "4/21",
@@ -730,8 +730,12 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Concept and formulation research phase",
+    "currentStatus": "📄 NEW Mon 4/27 11:10am: Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment — 2026-04-27' Google Doc to nik@nik.co. Opportunity assessment ready for Nik review (Day 0, ~2hr in inbox) — first major artifact since 3/14 scoping.",
     "recentActivity": [
+      {
+        "date": "4/27",
+        "text": "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed"
+      },
       {
         "date": "3/14",
         "text": "Project scoped — 4 month target timeline set"
@@ -752,7 +756,8 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-03-14"
+    "updated": "2026-04-27",
+    "alert": "📄 Scout opportunity assessment doc landed 11:10am — review owed"
   },
   {
     "name": "Flexpower",
