@@ -2,7 +2,7 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Mon 4/27 3pm. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view 4/23 5:48pm). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor (sent 4/21). Zurp Check-In Tue 4/28 11:30am.",
+    "currentStatus": "Mon 4/27 4pm. Amoria meet WRAPPED Fri 4/24 — recap/next steps still owed. Alec Docusign signature pending Day 5+ (~98h since view 4/23 5:48pm). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor (sent 4/21). Zurp Check-In Tue 4/28 11:30am — within 20h.",
     "alert": "📝 Amoria recap owed TODAY • Alec signature Day 5 • Jack recap overdue Day 5",
     "recentActivity": [
       {
@@ -146,13 +146,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-27T11:00"
+    "updated": "2026-04-27T16:00"
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Mon 4/27 3pm. RV TB WRAPPED Fri 4/24 — recap/next steps still owed (Day 3). Instant x Nik (Jaime Egan) recap now Day 5+. Tue 4/28 stacks: PDQ 3pm, Instant 4pm, Matt 4:30pm. Data-First Commerce event Tue 6-8:30pm. 🔥 IMMINENT: 4pm Prep for Leftlane (Facetime) → 4:15pm Travel → 5pm Left Lane in-person w/ Troy/Rohit.",
-    "alert": "📝 RV recap owed (Day 3) • Instant recap Day 5+ • Mon 5pm Left Lane in-person",
+    "currentStatus": "Mon 4/27 4pm LIVE. 🔥 NOW: 4pm Prep for Leftlane (Facetime) → 4:15pm Travel → 5-6pm IN PERSON Nik/Troy/Rohit <> Left Lane. RV TB WRAPPED Fri 4/24 — recap still owed (Day 3). Instant x Nik (Jaime Egan) recap Day 5+. Tue 4/28: PDQ 3pm, Instant 4pm, Matt 4:30pm. Data-First Commerce Tue 6-8:30pm.",
+    "alert": "🔥 IN PERSON Left Lane meeting 5-6pm TODAY • RV recap (Day 3) • Instant recap Day 5+",
     "recentActivity": [
       {
         "date": "4/24",
@@ -336,12 +336,12 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-26T14:00"
+    "updated": "2026-04-27T16:00"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Mon 4/27 3pm. Post-show Day 9 from Somewhere Nowhere NYC. 🔴 Two signals from this AM: Manus rebuilding afterourssound.com (Spotify stats refresh, 9:04am) + Minul wired $650 to CG Videos LLC (videographer payment, 9:05am). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
+    "currentStatus": "Mon 4/27 4pm. Post-show Day 9 from Somewhere Nowhere NYC. AM signals: Manus rebuilt afterourssound.com (9:04am) + Minul wired $650 to CG Videos LLC (videographer, 9:05am). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2-3pm — within 22h. Agenda: media pull-through, release calendar, brand doc.",
     "recentActivity": [
       {
         "date": "4/27",
@@ -465,13 +465,13 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-27T11:00",
-    "alert": "🎧 After Ours Sync Tue 2pm • Manus rebuilding site • CG Videos $650 paid"
+    "updated": "2026-04-27T16:00",
+    "alert": "🎧 After Ours Sync Tue 2pm — within 22h • Manus site rebuilt • CG Videos $650 paid"
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "🍽️ Last dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 — confirm Mon/Tue. Mon 4/27 3pm quiet.",
+    "currentStatus": "🍽️ Last dinner Wed 4/22 wrapped (Zagged w/ Simon Wool). Next dinner Wed 4/29 (~48h) — confirm Mon/Tue. Mon 4/27 4pm quiet.",
     "recentActivity": [
       {
         "date": "4/22",
@@ -519,7 +519,7 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Day 11 post-launch (Mon 4/27 3pm). Paid media remains gated on email flows. Dillon $3,480 invoice review still pending. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. All 3 trademarks filed. ~$30K initial ad spend deploying — monitoring early performance.",
+    "currentStatus": "Day 11 post-launch (Mon 4/27 4pm). Paid media remains gated on email flows. Dillon $3,480 invoice review still pending TODAY. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. All 3 trademarks filed. ~$30K initial ad spend deploying — monitoring early performance.",
     "recentActivity": [
       {
         "date": "4/25",
