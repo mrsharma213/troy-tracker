@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Wed 4/29 2:00pm ET. Zurp Check-In decisions captured: ordering 8 battery units at $1,900/unit with ~45-day lead time; MSG Afters locked; moving/storage logistics still active; transaction bonus plan review still pending before lawyer submission. Next YoSharma Check-In Thu 1:30pm.",
-    "alert": "8 battery units / 45-day lead • Bonus plan review pending • YoSharma Thu 1:30pm",
+    "currentStatus": "Wed 4/29 5:00pm ET. No new Zurp Slack after 4pm. 4/28 Zurp decisions still drive the board: 8 battery units at $1,900/unit with ~45-day lead, MSG Afters locked, moving/storage logistics active, transaction bonus plan review pending. YoSharma Check-In Thu 1:30pm.",
+    "alert": "8 units / 45-day lead • Bonus plan review • YoSharma Thu 1:30pm",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔕 5pm Slack scan: yosharma quiet since 4pm; Zurp next checkpoint is Thu 1:30pm"
+      },
       {
         "date": "4/29",
         "text": "📞 Fireflies recap captured: 8 units @ $1,900 each, 45-day lead time; MSG Afters locked; logistics/storage workstream active"
@@ -20,10 +24,6 @@
       {
         "date": "4/28",
         "text": "🔥 Docusign 12:45pm: Dimitri viewed 'The Ave x ZURP 4.28.26.docx'"
-      },
-      {
-        "date": "4/28",
-        "text": "✅ Zurp Check-In WRAPPED 11:30am-12pm ET — recap/next steps owed"
       }
     ],
     "people": [
@@ -72,14 +72,6 @@
       {
         "date": "Thu 4/30 1:30pm",
         "event": "YoSharma Check-In"
-      },
-      {
-        "date": "✅ Fri 4/24 5:30pm",
-        "event": "Amoria/Cordell meet — WRAPPED (recap owed)"
-      },
-      {
-        "date": "Wed 4/22 2pm",
-        "event": "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)"
       }
     ],
     "links": [],
@@ -106,15 +98,19 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-29T18:00:00Z",
-    "lastUpdated": "2026-04-29T18:00:00Z"
+    "updated": "2026-04-29T21:00:00Z",
+    "lastUpdated": "2026-04-29T21:00:00Z"
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Wed 4/29 4:00pm ET. Paramount/Katie W windows have wrapped. Fresh commercial motion is on Ecom Founders: Highbeam received the $25K AI Summit Silver sponsorship recap at 3:51pm, while Tatari remains at contracts/invoice + DocuSign routing. Rolling Ventures TB is now on calendar Fri 5/1 1:30pm; GLPrelief / Goldman deal-flow review still pending.",
-    "alert": "Highbeam/Tatari sponsor follow-up • RV TB Fri 1:30pm • deal-flow review pending",
+    "currentStatus": "Wed 4/29 5:00pm ET. No new RV-specific Slack after 4pm. GLPrelief $3M Seed 20min ask and Goldman/exit-liquidity pitch still need review. RV TB remains Fri 5/1 1:30pm; tomorrow’s Ecom Founders Sponsor Check-In may drive Highbeam/Tatari follow-up.",
+    "alert": "GLPrelief/Goldman review • RV TB Fri 1:30pm",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔕 5pm Slack scan: no new RV/channel messages after 4pm"
+      },
       {
         "date": "4/29",
         "text": "📤 Highbeam received AI Summit $25K Silver sponsorship recap/proposal; next ask is lock-in + Div/Nik session planning call"
@@ -130,10 +126,6 @@
       {
         "date": "4/29",
         "text": "✅ Highbeam x Ecom Founders wrapped — focus narrowed to AI Summit + Q4 Summit; Silver package/panel planning follow-up"
-      },
-      {
-        "date": "4/28",
-        "text": "🆕 5:51pm: Goldman Sachs (Nikita Frantz) inbound — '1% gains: Sharma Brands exit liquidity + Masala's 2026 Special Situations' (direct exit-liquidity pitch)"
       }
     ],
     "people": [
@@ -193,14 +185,18 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-29T20:00:00Z",
-    "lastUpdated": "2026-04-29T20:00:00Z"
+    "updated": "2026-04-29T21:00:00Z",
+    "lastUpdated": "2026-04-29T21:00:00Z"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Wed 4/29 4:00pm ET. AO has a packed night: Studio Time 5:00-6:00pm, then 7:00-10:00pm in Palisades Park, plus Minul’s “Finalize Never Come Back” session 9:15-9:45pm. Nik is still needsAction on the finalization invite. No fresh AO Sync transcript found.",
+    "currentStatus": "Wed 4/29 5:00pm ET. AO Studio 5-6pm is live/starting now, followed by 7-10pm in Palisades Park. Minul’s “Finalize Never Come Back” session remains 9:15-9:45pm with Nik still needsAction on the invite. No fresh AO transcript found in Fireflies/local sync.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🎵 5pm calendar check: AO Studio 5-6pm live now, 7-10pm next, Finalize Never Come Back 9:15pm"
+      },
       {
         "date": "4/29",
         "text": "🎵 AO night confirmed: studio 5-6pm + 7-10pm; Finalize Never Come Back 9:15-9:45pm"
@@ -216,10 +212,6 @@
       {
         "date": "4/29",
         "text": "⚠️ Fireflies check: no 4/28 After Ours Sync transcript found — recap/cadence still unresolved"
-      },
-      {
-        "date": "4/27",
-        "text": "🤖 Manus job processing 9:04am — 'Update Spotify Stats and Rebuild Site for After Ours' (afterourssound.com refresh)"
       }
     ],
     "people": [
@@ -287,9 +279,9 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-29T20:00:00Z",
-    "alert": "AO Studio starts 5pm • Finalize Never Come Back 9:15pm • Nik needsAction",
-    "lastUpdated": "2026-04-29T20:00:00Z",
+    "updated": "2026-04-29T21:00:00Z",
+    "alert": "AO Studio now + 7pm • Finalize Never Come Back 9:15pm • Nik needsAction",
+    "lastUpdated": "2026-04-29T21:00:00Z",
     "needsAttention": "Capture AO studio/finalization outputs after tonight. AO Sync recap/next steps still missing if the 4/28 sync happened off-Fireflies."
   },
   {
@@ -343,8 +335,12 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Wed 4/29 2:00pm ET — Day 13 post-launch. 🆕 Jim/Tondo emailed Chase at 1:54pm: Nik + Troy still need Macra Chase account access. Latest Fireflies Macra decisions captured: 2-order subscription model, first order = 90-day sachets + jar, second order = tin + tumbler, no formal bundled SKUs. Backend cadence/test orders still open. Macra TB tomorrow 3:00pm.",
+    "currentStatus": "Wed 4/29 5:00pm ET — Day 13 post-launch. Macra TB is tomorrow 3:00pm. Latest confirmed actions remain Chase account access for Nik + Troy and 4/28 subscription-model backend/UI fixes. No new Slack project messages after 4pm; no new Fireflies transcript since the 4/28 Macra call.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔕 5pm Slack scan: macra channels quiet since 4pm; no new Fireflies after 4/28 Macra call"
+      },
       {
         "date": "4/29",
         "text": "📞 Fireflies: Macra subscription model locked — first order ships 90-day sachets + jar; second order ships tin + tumbler; no formal bundled SKUs"
@@ -360,10 +356,6 @@
       {
         "date": "4/24",
         "text": "📭 No fresh Macra-specific email/calendar since last refresh; existing launch QA/invoice items still open"
-      },
-      {
-        "date": "4/24",
-        "text": "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build — review + pay"
       }
     ],
     "people": [
@@ -428,10 +420,10 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-29T18:00:00Z",
-    "alert": "🆕 Chase access needed for Nik + Troy • Macra TB Thu 3pm",
+    "updated": "2026-04-29T21:00:00Z",
+    "alert": "Chase access needed for Nik + Troy • Macra TB Thu 3pm",
     "needsAttention": "Resolve Macra Chase account access for Nik + Troy. Execute subscription cadence/UI/backend fixes from 4/28 Macra call. Review Figma comments + Dillon invoice. Prepare for Macra TB Thu 4/30 3pm.",
-    "lastUpdated": "2026-04-29T18:00:00Z"
+    "lastUpdated": "2026-04-29T21:00:00Z"
   },
   {
     "name": "Authentiq",
@@ -509,8 +501,12 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Wed 4/29 2:00pm ET. Left Lane/brand-incubator thesis remains the active next step: equity-split + CEO-per-brand framework doc owed. Scout Kids Need-Based Supplements opportunity doc still needs review; supplements/skincare remain top-ranked categories from Left Lane brainstorm.",
+    "currentStatus": "Wed 4/29 5:00pm ET. No new Slack after 4pm. Left Lane / brand-incubator thesis remains the active next step: equity-split + CEO-per-brand framework, data packs for top concepts, and Scout kids need-based supplement opportunity review.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔕 5pm Slack scan: no new kids-vitamin/YoSharma project messages"
+      },
       {
         "date": "4/29",
         "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
@@ -539,15 +535,19 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-04-29T18:00:00Z",
+    "updated": "2026-04-29T21:00:00Z",
     "alert": "📄 Scout opportunity assessment doc Day 1+ — review still owed",
-    "lastUpdated": "2026-04-29T18:00:00Z"
+    "lastUpdated": "2026-04-29T21:00:00Z"
   },
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Wed 4/29 4:00pm ET. Calendar now has “Text Dylan / Flexpower if no reply” for Fri 5/1 7:30am. Flexpower/Giannis proposal, terms, and 6-week timeline remain the open thread from the 4/23 chat.",
+    "currentStatus": "Wed 4/29 5:00pm ET. No new Flexpower Slack after 4pm. Calendar reminder still set for Fri 5/1 7:30am: text Dylan / Flexpower if no reply. Proposal/equity terms from 4/23 remain the open loop.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "📅 5pm check: Flexpower follow-up reminder still Fri 5/1 7:30am"
+      },
       {
         "date": "4/29",
         "text": "📅 Follow-up reminder added: Text Dylan / Flexpower if no reply — Fri 5/1 7:30am"
@@ -563,10 +563,6 @@
       {
         "date": "4/15",
         "text": "🔄 flexpower.nik.co updated: PaulStreet renamed to Department Media. Marcus Waters + Paul Natali added."
-      },
-      {
-        "date": "4/14",
-        "text": "✅ Dylan x Nik call completed (1:30pm ET)"
       }
     ],
     "people": [
@@ -610,8 +606,8 @@
     "links": [],
     "decisions": [],
     "status": "attention",
-    "updated": "2026-04-29T20:00:00Z",
-    "alert": "Text Dylan / Flexpower Fri 7:30am if no reply",
-    "lastUpdated": "2026-04-29T20:00:00Z"
+    "updated": "2026-04-29T21:00:00Z",
+    "alert": "Text Dylan/Flexpower Fri 7:30am if no reply",
+    "lastUpdated": "2026-04-29T21:00:00Z"
   }
 ]
