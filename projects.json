@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Thu 4/30 12:06pm ET. YoSharma Check-In remains today 1:30pm. Slack 11–12 scan found no new #yosharma activity; open state remains ALEC x ZURP DocuSign voided for edits, The Ave fully executed, 8-unit hardware/logistics, and MSG Afters rollout.",
+    "currentStatus": "Thu 4/30 1:01pm ET. YoSharma Check-In is the next operating checkpoint at 1:30pm. Live #yosharma scan found no project messages since noon; open state remains ALEC x ZURP DocuSign voided for edits, The Ave fully executed, 8-unit hardware/logistics, and MSG Afters rollout.",
     "alert": "YoSharma today 1:30pm • ALEC DocuSign voided • Hardware/logistics open",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "🔕 1:01pm Slack scan: #yosharma quiet since noon; YoSharma Check-In still 1:30pm."
+      },
       {
         "date": "4/30",
         "text": "🔕 12:06pm Slack scan: #yosharma quiet since 11am; YoSharma Check-In still 1:30pm."
@@ -20,10 +24,6 @@
       {
         "date": "4/30",
         "text": "📅 9:07am calendar pull: YoSharma Check-In today 1:30pm; use it to close ALEC agreement changes + battery order logistics."
-      },
-      {
-        "date": "4/29",
-        "text": "🧾 5:33pm DocuSign: ALEC x ZURP.pdf was voided because the agreement needs changes; watch for revised envelope."
       }
     ],
     "people": [
@@ -82,16 +82,20 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-30T16:06:00Z",
-    "lastUpdated": "2026-04-30T16:06:00Z",
+    "updated": "2026-04-30T17:01:00Z",
+    "lastUpdated": "2026-04-30T17:01:00Z",
     "needsAttention": "Use YoSharma check-in to push revised ALEC docs, hardware timing, and MSG Afters rollout ownership."
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Thu 4/30 12:06pm ET. Calendar all-pages reconfirms tomorrow’s 7:30am Text Dylan / Flexpower reminder and 1:30pm Rolling Ventures TB. Four-hour unread inbox is mostly newsletters/promos; no new urgent deal email. Keep Flexpower outreach and RV pipeline prep as tomorrow’s watch items.",
+    "currentStatus": "Thu 4/30 1:01pm ET. Calendar all-pages reconfirms tomorrow’s 7:30am Text Dylan / Flexpower reminder and 1:30pm Rolling Ventures TB. Four-hour unread inbox is mostly newsletters/promos plus non-urgent pitch flow; no urgent deal email. Keep Flexpower outreach and RV pipeline prep as tomorrow’s watch items.",
     "alert": "Flexpower reminder Fri 7:30am • Rolling Ventures TB Fri 1:30pm",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "📅 1:01pm calendar all-pages: Fri 7:30am Flexpower reminder and Fri 1:30pm Rolling Ventures TB reconfirmed; no urgent new deal email."
+      },
       {
         "date": "4/30",
         "text": "📅 12:06pm calendar all-pages: Fri 7:30am Flexpower reminder and Fri 1:30pm Rolling Ventures TB reconfirmed."
@@ -107,10 +111,6 @@
       {
         "date": "4/30",
         "text": "📅 9:07am calendar pull: Flexpower reminder Fri 7:30am; Rolling Ventures TB Fri 1:30pm."
-      },
-      {
-        "date": "4/29",
-        "text": "📅 6pm calendar: Rolling Ventures TB Fri 1:30pm; Text Dylan / Flexpower if no reply Fri 7:30am."
       }
     ],
     "people": [
@@ -162,15 +162,19 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-30T16:06:00Z",
-    "lastUpdated": "2026-04-30T16:06:00Z",
+    "updated": "2026-04-30T17:01:00Z",
+    "lastUpdated": "2026-04-30T17:01:00Z",
     "needsAttention": "Prep Friday RV TB and text Dylan/Flexpower if no reply by 7:30am."
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Thu 4/30 12:06pm ET. No After Ours/Pigeon House events in the next-48h calendar pull and no newer Fireflies transcript after the 4/28 window. Manus Spotify/site rebuild remains processing; assets page and press-kit links are live.",
+    "currentStatus": "Thu 4/30 1:01pm ET. No After Ours events in the next-48h calendar pull and no newer Fireflies transcript after the 4/28 window. Manus Spotify/site rebuild remains the latest external task signal; assets page and press-kit links are live.",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "🔕 1:01pm refresh: no AO calendar, Slack, or Fireflies updates; Manus Spotify/site rebuild remains latest open item."
+      },
       {
         "date": "4/30",
         "text": "🔕 12:06pm refresh: no AO calendar/Fireflies updates; Manus Spotify/site rebuild remains latest open item."
@@ -186,10 +190,6 @@
       {
         "date": "4/29",
         "text": "🎵 6:01pm calendar check: AO 5-6pm block wrapping; 7-10pm studio next; Finalize Never Come Back 9:15pm still needsAction for Nik."
-      },
-      {
-        "date": "4/29",
-        "text": "🎵 5pm calendar check: AO Studio 5-6pm live now, 7-10pm next, Finalize Never Come Back 9:15pm"
       }
     ],
     "people": [
@@ -223,9 +223,9 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-30T16:06:00Z",
+    "updated": "2026-04-30T17:01:00Z",
     "alert": null,
-    "lastUpdated": "2026-04-30T16:06:00Z",
+    "lastUpdated": "2026-04-30T17:01:00Z",
     "needsAttention": "Capture AO studio/finalization outputs after tonight. Confirm whether 4/28 AO Sync happened off-Fireflies."
   },
   {
@@ -280,8 +280,12 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Thu 4/30 12:06pm ET — Day 14 post-launch. Calendar all-pages now has Macra TB at 2:30pm, followed by Bill catchup 3:00pm, SUPR Natural 3:30pm, and Chiro 4:00pm. No newer Fireflies transcript after the 4/28 Macra call; use today’s TB to close subscription/fulfillment QA, tumbler lid/straw scope at $4.80, tin PO via Minul, and Chase account access for Nik + Troy.",
+    "currentStatus": "Thu 4/30 1:01pm ET — Day 14 post-launch. Calendar all-pages reconfirms Macra TB at 2:30pm, followed by Bill 3:00, SUPR Natural 3:30, and Chiro 4:00. Live Slack priority channels were quiet since noon and Fireflies has no newer Macra transcript after 4/28; use today’s TB to close subscription/fulfillment QA, tumbler lid/straw scope at $4.80, tin PO via Minul, and Chase account access for Nik + Troy.",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "📅 1:01pm refresh: Macra TB still 2:30pm; 24 live Slack channels quiet since noon; Fireflies latest Macra transcript remains 4/28."
+      },
       {
         "date": "4/30",
         "text": "📅 12:06pm all-pages calendar: Macra TB is now 2:30pm, then Bill 3:00, SUPR 3:30, Chiro 4:00; Slack 11–12 quiet and Fireflies has no newer Macra transcript."
@@ -297,10 +301,6 @@
       {
         "date": "4/30",
         "text": "✅ 12:04am Rameez confirmed the tin 100%; Minul to send PO immediately. Tumbler box should be unbranded and close-up lid/straw media requested."
-      },
-      {
-        "date": "4/30",
-        "text": "📥 8:48am Rameez asked Tony to confirm current tumbler unit had lid; Tony said lid + stainless straw would move unit price to $4.80."
       }
     ],
     "people": [
@@ -353,10 +353,10 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-04-30T16:06:00Z",
+    "updated": "2026-04-30T17:01:00Z",
     "alert": "Macra TB today 2:30pm • Bill/SUPR stack after • Tin PO/Chase access",
     "needsAttention": "Use today’s 2:30pm Macra TB to close subscription/fulfillment QA, tumbler lid/straw pricing/scope, tin PO via Minul, and Chase account access for Nik + Troy.",
-    "lastUpdated": "2026-04-30T16:06:00Z"
+    "lastUpdated": "2026-04-30T17:01:00Z"
   },
   {
     "name": "Authentiq",
@@ -434,8 +434,12 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Thu 4/30 12:06pm ET. No new Slack/email/Fireflies signal in this refresh. Left Lane / brand-incubator thesis remains the active next step: narrow top concepts, validate claims/regulatory wedge, and keep Scout opportunity assessment in review queue.",
+    "currentStatus": "Thu 4/30 1:01pm ET. No new Slack/email/Fireflies signal in this refresh. Left Lane portfolio brand-incubator thesis remains the latest strategic direction; next deliverable is the equity-split + CEO-per-brand framework doc.",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "🔕 1:01pm refresh: no new kids-vitamin / Left Lane signal; portfolio incubator framework remains the next deliverable."
+      },
       {
         "date": "4/30",
         "text": "🔕 12:06pm refresh: no Kids Vitamin-specific Slack, email, calendar, or Fireflies signal."
@@ -451,10 +455,6 @@
       {
         "date": "4/29",
         "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
-      },
-      {
-        "date": "4/27",
-        "text": "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed"
       }
     ],
     "people": [
@@ -472,15 +472,19 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-04-30T16:06:00Z",
+    "updated": "2026-04-30T17:01:00Z",
     "alert": null,
-    "lastUpdated": "2026-04-30T16:06:00Z"
+    "lastUpdated": "2026-04-30T17:01:00Z"
   },
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Thu 4/30 12:06pm ET. Calendar all-pages still has explicit Fri 5/1 7:30am reminder: text Dylan / Flexpower if no reply. No new unread email or Slack signal in this refresh. Keep partnership terms/economics proposal warm for tomorrow’s outreach.",
+    "currentStatus": "Thu 4/30 1:01pm ET. Calendar all-pages still has explicit Fri 5/1 7:30am reminder to text Dylan / Flexpower if no reply. No new Flexpower email, Slack, or Fireflies signal surfaced in the 1:01 refresh.",
     "recentActivity": [
+      {
+        "date": "4/30",
+        "text": "📅 1:01pm calendar pull: Flexpower reminder still Fri 5/1 7:30am; no new inbox/Slack/Fireflies signal."
+      },
       {
         "date": "4/30",
         "text": "📅 12:06pm calendar all-pages: Fri 7:30am Flexpower text reminder reconfirmed; no new email/Slack signal."
@@ -496,10 +500,6 @@
       {
         "date": "4/30",
         "text": "📅 9:07am calendar pull confirmed Flexpower follow-up reminder Fri 5/1 7:30am."
-      },
-      {
-        "date": "4/29",
-        "text": "📅 Calendar added Fri 5/1 7:30am reminder: text Dylan / Flexpower if no reply."
       }
     ],
     "people": [
@@ -543,8 +543,9 @@
     "links": [],
     "decisions": [],
     "status": "attention",
-    "updated": "2026-04-30T16:06:00Z",
-    "alert": "Text Dylan/Flexpower Fri 7:30am if no reply",
-    "lastUpdated": "2026-04-30T16:06:00Z"
+    "updated": "2026-04-30T17:01:00Z",
+    "alert": "Text Dylan / Flexpower if no reply Fri 7:30am",
+    "lastUpdated": "2026-04-30T17:01:00Z",
+    "needsAttention": "If no reply by Friday 7:30am, text Dylan/Flexpower per calendar reminder."
   }
 ]
