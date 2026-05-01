@@ -2,16 +2,16 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Thu 4/30 5:00pm ET. No new Zurp-specific Slack/email after the YoSharma transcript. Open items remain Dil invoice settlement with Minul, ALEC revised agreement resend, venue decision this week, and Authentiq chip-auth quick launch.",
-    "alert": "Dil invoice settlement • ALEC resend • Venue/Authentiq decisions",
+    "currentStatus": "Thu 4/30 3:00pm ET. YoSharma Check-In transcript is live. For the broader Yo/Zurp/Authentiq stack: venue decisions need to land by end of week, Authentiq chip-auth product is prioritized for quick launch, and Dil sent two Partnership Event Invoice emails to Minul asking for settlement confirmation. ALEC x ZURP DocuSign remains voided pending revised agreement.",
+    "alert": "Dil invoice to Minul • ALEC DocuSign voided • Venue/Authentiq decisions this week",
     "recentActivity": [
       {
         "date": "4/30",
-        "text": "🟡 5:00pm refresh: no new Zurp signal; invoice settlement, ALEC resend, venue decision, and Authentiq quick-launch remain open."
+        "text": "🟡 5:00pm refresh: no new Zurp Slack/email after the YoSharma transcript; Dil invoice settlement, ALEC resend, venue decision, and Authentiq quick-launch remain open."
       },
       {
         "date": "4/30",
-        "text": "🔥 3:00pm refresh: YoSharma transcript landed; Dil invoice to Minul, venue decisions this week, and Authentiq quick-launch priority."
+        "text": "🔥 3:00pm refresh: YoSharma transcript landed; venue decisions targeted by end of week, chip-auth product prioritized, and Dil emailed Minul two Partnership Event Invoices asking for settlement confirmation."
       },
       {
         "date": "4/30",
@@ -93,7 +93,7 @@
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Thu 4/30 5:00pm ET. No new RV-specific Slack or urgent deal email. Tomorrow remains Flexpower text reminder at 7:30am and Rolling Ventures TB at 1:30pm.",
+    "currentStatus": "Thu 4/30 5:00pm ET. No new RV-specific Slack or urgent deal email in the fresh pull. Tomorrow remains the key window: Text Dylan / Flexpower reminder at 7:30am and Rolling Ventures TB at 1:30pm.",
     "alert": "Flexpower reminder Fri 7:30am • Rolling Ventures TB Fri 1:30pm",
     "recentActivity": [
       {
@@ -102,7 +102,7 @@
       },
       {
         "date": "4/30",
-        "text": "📅 3:00pm refresh: no new RV-specific signal; Friday Flexpower reminder + RV TB remain the watch items."
+        "text": "📅 3:00pm refresh: tomorrow still has Flexpower text reminder 7:30am and Rolling Ventures TB 1:30pm; no new urgent RV email/slack signal."
       },
       {
         "date": "4/30",
@@ -173,15 +173,15 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Thu 4/30 5:00pm ET. Tonight’s “Finalize Never Come Back” hold is 9:15–9:45pm. Nik still needsAction; Minul organized it and Troy is invited. May 20 remains the finalization deadline for a May 22 release.",
+    "currentStatus": "Thu 4/30 5:00pm ET. Tonight’s 9:15pm “Finalize Never Come Back” calendar hold is the next live music milestone. Nik still needsAction; Minul organized it and Troy is invited. Broader transcript context remains: finalize by May 20 for May 22 release, approve/upload Rahul artwork, and keep website/logo options moving.",
     "recentActivity": [
       {
         "date": "4/30",
-        "text": "📅 5:00pm refresh: Finalize Never Come Back is tonight 9:15–9:45pm; Nik needsAction, Minul organizer, Troy invited."
+        "text": "📅 5:00pm refresh: Finalize Never Come Back is on tonight’s calendar 9:15–9:45pm; Nik needsAction."
       },
       {
         "date": "4/30",
-        "text": "🔥 3:00pm refresh: Never Coming Back deadline May 20 for May 22 release; ad spend underperformed and social staffing reset under discussion."
+        "text": "🔥 3:00pm refresh: YoSharma/After Ours transcript landed with May 20 finalization deadline for Never Coming Back and artwork/site follow-ups."
       },
       {
         "date": "4/30",
@@ -294,15 +294,15 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Thu 4/30 5:00pm ET. No newer Fireflies transcript after Macra TB. Execution list remains site carousel/blog/SEO work, ads/social/email assets, eight creator shipments, tiered subscription packout/test orders, tumbler/tin PO, Shopify/insert SKU logic, and fulfillment instructions.",
+    "currentStatus": "Thu 4/30 5:00pm ET — Day 14 post-launch. No newer Fireflies transcript landed after Macra TB. Current action list remains from the fresh Macra TB transcript: finish Macra.com carousel/blog/recipe SEO work, close ads/social/email assets, queue eight creator shipments, finalize tiered subscription packout/test orders, resolve tumbler/tin PO details, insert SKUs/Shopify logic, and fulfillment instructions.",
     "recentActivity": [
       {
         "date": "4/30",
-        "text": "💊 5:00pm refresh: no newer Macra transcript; packout/test orders, creator shipments, PO details, Shopify/insert SKU logic, and site/assets QA remain open."
+        "text": "💊 5:00pm refresh: no newer Macra transcript after Macra TB; execution list remains packout/test orders, creator shipments, PO details, Shopify/insert SKU logic, and site/assets QA."
       },
       {
         "date": "4/30",
-        "text": "🔥 3:00pm refresh: Macra TB Fireflies transcript landed; tiered subscription packout finalized and execution list moved to QA/PO/creator shipments."
+        "text": "🔥 3:00pm refresh: Macra TB Fireflies transcript landed. Tiered subscription packout finalized; website/ads/email nearly complete; eight creators selected; Rameez/Jim/Nik have packout, PO, Shopify, and creator-shipping follow-ups."
       },
       {
         "date": "4/30",
