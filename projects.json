@@ -86,8 +86,8 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-05-01T13:02:00Z",
-    "lastUpdated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
+    "lastUpdated": "2026-05-01T15:00:00Z",
     "needsAttention": "Use YoSharma check-in to push revised ALEC docs, hardware timing, and MSG Afters rollout ownership."
   },
   {
@@ -166,8 +166,8 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-05-01T13:02:00Z",
-    "lastUpdated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
+    "lastUpdated": "2026-05-01T15:00:00Z",
     "needsAttention": "Prep Friday RV TB and text Dylan/Flexpower if no reply by 7:30am."
   },
   {
@@ -237,9 +237,9 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
     "alert": "Finalize Never Come Back tonight 9:15pm",
-    "lastUpdated": "2026-05-01T13:02:00Z",
+    "lastUpdated": "2026-05-01T15:00:00Z",
     "needsAttention": "Capture AO studio/finalization outputs after tonight. Confirm whether 4/28 AO Sync happened off-Fireflies."
   },
   {
@@ -288,8 +288,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-30T16:06:00Z",
-    "lastUpdated": "2026-04-30T16:06:00Z"
+    "updated": "2026-05-01T15:00:00Z",
+    "lastUpdated": "2026-05-01T15:00:00Z"
   },
   {
     "name": "Macra",
@@ -362,10 +362,10 @@
       }
     ],
     "status": "attention",
-    "updated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
     "alert": "Macra TB action list • Packout/test orders • Creator shipments",
     "needsAttention": "Use today’s 2:30pm Macra TB to close subscription/fulfillment QA, tumbler lid/straw pricing/scope, tin PO via Minul, and Chase account access for Nik + Troy.",
-    "lastUpdated": "2026-05-01T13:02:00Z"
+    "lastUpdated": "2026-05-01T15:00:00Z"
   },
   {
     "name": "Authentiq",
@@ -437,9 +437,9 @@
       }
     ],
     "status": "active",
-    "updated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
     "alert": "Chip-auth quick-launch priority",
-    "lastUpdated": "2026-05-01T13:02:00Z"
+    "lastUpdated": "2026-05-01T15:00:00Z"
   },
   {
     "name": "Kids Vitamin Brand",
@@ -482,9 +482,9 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-04-30T17:01:00Z",
+    "updated": "2026-05-01T15:00:00Z",
     "alert": null,
-    "lastUpdated": "2026-04-30T17:01:00Z"
+    "lastUpdated": "2026-05-01T15:00:00Z"
   },
   {
     "name": "Flexpower",
@@ -553,9 +553,9 @@
     "links": [],
     "decisions": [],
     "status": "attention",
-    "updated": "2026-05-01T13:02:00Z",
+    "updated": "2026-05-01T15:00:00Z",
     "alert": "Text Dylan / Flexpower Fri 7:30am",
-    "lastUpdated": "2026-05-01T13:02:00Z",
+    "lastUpdated": "2026-05-01T15:00:00Z",
     "needsAttention": "If no reply by Friday 7:30am, text Dylan/Flexpower per calendar reminder."
   }
 ]
