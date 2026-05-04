@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Mon 5/4 9:02am ET. Transaction bonus plan meeting today at 3:30pm.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Transaction bonus plan meeting today at 3:30pm. Check-In meeting completed.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/4 11:30am",
+        "text": "✅ Check-In meeting completed"
+      },
       {
         "date": "5/1",
         "text": "🔄 Operational - venue partnerships progressing"
@@ -36,14 +40,14 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Mon 5/4 9:02am ET. Fund operations continuing. New pitch received from Postcard.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise).",
     "alert": null,
     "recentActivity": [
       {
@@ -67,14 +71,14 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "After Ours",
     "desc": "Electronic music project (Nik + Minul). Label: Pigeon House Records. Genre: tech house, dark house.",
-    "currentStatus": "Mon 5/4 9:02am ET. Production work progressing on schedule.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Production work progressing on schedule. Studio sessions active.",
     "alert": null,
     "recentActivity": [],
     "people": [
@@ -98,14 +102,14 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "Chef Trey",
     "desc": "Premium meal prep / chef services concept.",
-    "currentStatus": "Mon 5/4 9:02am ET. Planning phase.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Planning phase.",
     "alert": null,
     "recentActivity": [],
     "people": [],
@@ -113,16 +117,20 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "Macra",
     "desc": "Supplement brand. SKUs: HP-719 (mood booster), CB-628 (carb blocker).",
-    "currentStatus": "Mon 5/4 9:02am ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
+    "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/4 12:39pm",
+        "text": "📧 Rameez thread active on Ecom Founders AI Summit"
+      },
       {
         "date": "5/2 4:26am",
         "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
@@ -148,14 +156,14 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "Kids Vitamin",
     "desc": "Scout — kids need-based supplement concept.",
-    "currentStatus": "Mon 5/4 9:02am ET. Research and planning phase.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Research and planning phase.",
     "alert": null,
     "recentActivity": [],
     "people": [],
@@ -163,14 +171,14 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   },
   {
     "name": "Flexpower",
     "desc": "Portable power / energy brand concept.",
-    "currentStatus": "Mon 5/4 9:02am ET. Planning and development.",
+    "currentStatus": "Mon 5/4 1:01pm ET. Planning and development. Follow-up check scheduled for Tue 5/5 8:30am.",
     "alert": null,
     "recentActivity": [],
     "people": [
@@ -180,12 +188,17 @@
         "role": "Lead"
       }
     ],
-    "upcomingEvents": [],
+    "upcomingEvents": [
+      {
+        "date": "Tue 5/5 8:30am",
+        "event": "Check if Dylan / Flexpower got back"
+      }
+    ],
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-04T13:02:00Z",
-    "lastUpdated": "2026-05-04T13:02:00Z",
+    "updated": "2026-05-04T17:01:00Z",
+    "lastUpdated": "2026-05-04T17:01:00Z",
     "needsAttention": null
   }
 ]
