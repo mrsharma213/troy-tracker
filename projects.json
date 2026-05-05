@@ -2,9 +2,21 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Tue 5/5 1:01pm ET. Zurp Check-In 1pm (starting), Workweek 1:30pm, After Ours 2pm, YoSharma 3pm, Limited Supply 4pm. Transaction bonus finalization Fri 5/8 2:30pm.",
+    "currentStatus": "Tue 5/5 3:00pm ET. Zurp Check-In (1:00pm completed), YoSharma Check-In (3:00pm live), Limited Supply Recording (4:00pm upcoming). Transaction bonus plan finalization Fri 5/8 2:30pm.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/5 3:00pm",
+        "text": "🤖 Dashboard auto-refresh - YoSharma Check-In live"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "✅ Zurp Check-In completed successfully"
+      },
+      {
+        "date": "5/4 4:47pm",
+        "text": "📅 Transaction Bonus Plan finalization scheduled - Fri 5/8 2:30pm"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard auto-refresh cron - 1:01pm check-in live"
@@ -12,10 +24,6 @@
       {
         "date": "5/5 9:01am",
         "text": "🤖 Morning dashboard check - Zurp & YoSharma Check-Ins on track"
-      },
-      {
-        "date": "5/4 4:47pm",
-        "text": "📅 Troy updated - Transaction Bonus Plan → Fri 5/8 2:30pm"
       }
     ],
     "people": [
@@ -86,16 +94,28 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T17:01:26Z",
-    "lastUpdated": "2026-05-05T17:01:26Z",
+    "updated": "2026-05-05T19:00:00.000Z",
+    "lastUpdated": "2026-05-05T19:00:00.000Z",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Tue 5/5 1:01pm ET. Fund operations steady. Postcard pitch (300K users, $4M raise) in pipeline. Deal flow review ongoing.",
+    "currentStatus": "Tue 5/5 3:00pm ET. Gospel Chargers - next steps in motion. Deal flow review ongoing. YoSharma Check-In 3:00pm today.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/5 2:28pm",
+        "text": "📧 Gospel Chargers - next steps email from contact"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "📊 Portfolio monitoring on schedule"
+      },
+      {
+        "date": "5/5 9:01am",
+        "text": "📅 YoSharma Check-In on track for 3:00pm"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard auto-refresh - deal pipeline healthy"
@@ -150,8 +170,8 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T17:01:26Z",
-    "lastUpdated": "2026-05-05T17:01:26Z",
+    "updated": "2026-05-05T19:00:00.000Z",
+    "lastUpdated": "2026-05-05T19:00:00.000Z",
     "needsAttention": null
   },
   {
@@ -221,8 +241,16 @@
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "Tue 5/5 1:01pm ET. Weekly dinner service on schedule.",
+    "currentStatus": "Tue 5/5 3:00pm ET. Partnership engagement ongoing. Operations monitoring.",
     "recentActivity": [
+      {
+        "date": "5/5 3:00pm",
+        "text": "🤖 Dashboard auto-refresh - ops check-in"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "📊 Partnership status quo"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard refresh"
@@ -244,14 +272,26 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T17:01:26Z",
-    "lastUpdated": "2026-05-05T17:01:26Z"
+    "updated": "2026-05-05T19:00:00.000Z",
+    "lastUpdated": "2026-05-05T19:00:00.000Z"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Tue 5/5 1:01pm ET. Day 18 post-launch. Rameez finalizing tumbler procurement ($4.5/pc with lid).",
+    "currentStatus": "Tue 5/5 3:00pm ET. Brand development and GTM ongoing. Email marketing analysis (revenue target 30%+). Blume partnership check-in engagement.",
     "recentActivity": [
+      {
+        "date": "5/5 11:42am",
+        "text": "📧 Karen Danudjaja from Blume - partnership check-in"
+      },
+      {
+        "date": "5/5 10:26am",
+        "text": "📊 Email marketing analysis - 30% revenue target"
+      },
+      {
+        "date": "5/5 9:01am",
+        "text": "🔄 Ongoing brand development work"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard refresh - procurement pipeline active"
@@ -259,10 +299,6 @@
       {
         "date": "5/4 12:39pm",
         "text": "📧 Rameez thread active"
-      },
-      {
-        "date": "5/2 4:26am",
-        "text": "📦 Vendor invoice received"
       }
     ],
     "people": [
@@ -310,10 +346,10 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T17:01:26Z",
+    "updated": "2026-05-05T19:00:00.000Z",
     "alert": null,
     "needsAttention": null,
-    "lastUpdated": "2026-05-05T17:01:26Z"
+    "lastUpdated": "2026-05-05T19:00:00.000Z"
   },
   {
     "name": "Authentiq",
@@ -437,8 +473,16 @@
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Tue 5/5 1:01pm ET. Morning check-in completed 8:30am. No new updates in latest refresh.",
+    "currentStatus": "Tue 5/5 3:00pm ET. Venture portfolio monitoring. Status quo.",
     "recentActivity": [
+      {
+        "date": "5/5 3:00pm",
+        "text": "🤖 Dashboard auto-refresh"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "📊 Portfolio check-in"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard refresh - status unchanged"
@@ -484,8 +528,8 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T17:01:26Z",
+    "updated": "2026-05-05T19:00:00.000Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T17:01:26Z"
+    "lastUpdated": "2026-05-05T19:00:00.000Z"
   }
 ]
