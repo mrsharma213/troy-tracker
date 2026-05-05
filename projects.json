@@ -2,20 +2,20 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Tue 5/5 9:01am ET. Transaction bonus plan finalization Fri 5/8 2:30pm. Next up: Zurp Check-In 1pm today, YoSharma Check-In 3pm today.",
+    "currentStatus": "Tue 5/5 11:00am ET. Transaction bonus plan finalization Fri 5/8 2:30pm. Next up: Zurp Check-In 1pm today, YoSharma Check-In 3pm today.",
     "alert": null,
     "recentActivity": [
       {
+        "date": "5/5 11:00am",
+        "text": "🤖 Dashboard refresh executed - all meetings confirmed"
+      },
+      {
         "date": "5/5 9:01am",
-        "text": "\ud83e\udd16 Dashboard refresh: Confirmed Check-In meetings Tue 1pm & 3pm"
+        "text": "🤖 Morning dashboard check - Zurp & YoSharma Check-Ins on track"
       },
       {
         "date": "5/4 4:47pm",
-        "text": "\ud83d\udcc5 Troy updated - Transaction Bonus Plan \u2192 Fri 5/8 2:30pm"
-      },
-      {
-        "date": "5/4 11:30am",
-        "text": "\u2705 Check-In meeting completed"
+        "text": "📅 Troy updated - Transaction Bonus Plan → Fri 5/8 2:30pm"
       }
     ],
     "people": [
@@ -86,23 +86,23 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
-    "lastUpdated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
+    "lastUpdated": "2026-05-05T15:00:00Z",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Tue 5/5 9:01am ET. Fund operations continuing. Active pitch: Postcard (300K users, \\$4M raise). Flexpower check completed this morning. Deal flow review active.",
+    "currentStatus": "Tue 5/5 11:00am ET. Fund operations continuing. Active pitch: Postcard (300K users, $4M raise). Deal flow review active.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/5 8:30am",
-        "text": "\ud83e\udd16 Dashboard refresh: Flexpower follow-up completed Tue 8:30am"
+        "date": "5/5 11:00am",
+        "text": "🤖 Dashboard refresh - deal flow review ongoing"
       },
       {
         "date": "5/4 9:01am",
-        "text": "\ud83d\udce7 Postcard pitch received - 300K monthly organic users, raising \\$4M"
+        "text": "📧 Postcard pitch: 300K monthly organic users, raising $4M"
       }
     ],
     "people": [
@@ -150,8 +150,8 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
-    "lastUpdated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
+    "lastUpdated": "2026-05-05T15:00:00Z",
     "needsAttention": null
   },
   {
@@ -161,15 +161,15 @@
     "recentActivity": [
       {
         "date": "5/5 9:01am",
-        "text": "\ud83d\udcc5 After Ours Sync scheduled today 2pm"
+        "text": "📅 After Ours Sync scheduled today 2pm"
       },
       {
         "date": "5/4 11:00pm",
-        "text": "\ud83c\udfb5 Patreon track uploads: Multiple unreleased IDs queued"
+        "text": "🎵 Patreon track uploads: Multiple unreleased IDs queued"
       },
       {
         "date": "4/30",
-        "text": "\ud83d\udd25 Never Coming Back deadline May 20 for May 22 release"
+        "text": "🔥 Never Coming Back deadline May 20 for May 22 release"
       }
     ],
     "people": [
@@ -181,7 +181,7 @@
       {
         "initials": "PC",
         "name": "Paul Campbell",
-        "role": "Music Manager (N\u00dc MGMT)"
+        "role": "Music Manager (NÜ MGMT)"
       },
       {
         "initials": "TO",
@@ -202,7 +202,7 @@
     "upcomingEvents": [
       {
         "date": "Tue 5/5 2:00pm",
-        "text": "\ud83c\udfa7 After Ours Sync"
+        "text": "🎧 After Ours Sync"
       }
     ],
     "links": [],
@@ -213,31 +213,19 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T13:01:00Z",
+    "lastUpdated": "2026-05-05T15:00:00Z",
     "needsAttention": null
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "Tue 5/5 9:01am ET. Next dinner: Wed 5/6 (confirm today). Last dinner Wed 4/29 wrapped.",
+    "currentStatus": "Tue 5/5 11:00am ET. Production operations steady.",
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "\ud83c\udf7d\ufe0f Confirm Chef Trey for tomorrow Wed 5/6"
-      },
-      {
-        "date": "4/29",
-        "text": "\u2705 Last dinner completed"
-      },
-      {
-        "date": "4/22",
-        "text": "\u2705 Zagged Dinner 8-10:15pm WRAPPED w/ Simon Wool"
-      },
-      {
-        "date": "4/18",
-        "text": "\u2705 Nik back in NYC (SFO\u2192JFK landed)"
+        "date": "5/5 11:00am",
+        "text": "🤖 Dashboard refresh"
       }
     ],
     "people": [
@@ -250,31 +238,31 @@
     "upcomingEvents": [
       {
         "date": "Wed 5/6",
-        "event": "\ud83c\udf7d\ufe0f Weekly dinner - confirm with Trey today"
+        "event": "🍽️ Weekly dinner - confirm with Trey today"
       }
     ],
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
-    "lastUpdated": "2026-05-05T13:01:00Z"
+    "updated": "2026-05-05T15:00:00Z",
+    "lastUpdated": "2026-05-05T15:00:00Z"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Tue 5/5 9:01am ET. Day 19 post-launch. Post-launch operations stabilizing. Active procurement: Rameez finalizing tumbler order (\\$4.5/pc with lid). Ecom Founders AI Summit coordination active.",
+    "currentStatus": "Tue 5/5 11:00am ET. Day 18 post-launch. Rameez finalizing tumbler order ($4.5/pc).",
     "recentActivity": [
       {
+        "date": "5/5 11:00am",
+        "text": "🤖 Dashboard refresh - procurement on track"
+      },
+      {
         "date": "5/4 12:39pm",
-        "text": "\ud83d\udcec Rameez thread: Ecom Founders AI Summit x Slash.com partnership"
+        "text": "📧 Rameez thread active"
       },
       {
         "date": "5/2 4:26am",
-        "text": "\ud83d\udce6 Tumbler procurement: Invoice received from Tony ($4.5/pc with lid)"
-      },
-      {
-        "date": "5/1 12:34pm",
-        "text": "\ud83d\udcec Rameez confirmed tumbler specs: bottle + lid option"
+        "text": "📦 Vendor invoice received"
       }
     ],
     "people": [
@@ -322,10 +310,10 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
     "alert": null,
     "needsAttention": null,
-    "lastUpdated": "2026-05-05T13:01:00Z"
+    "lastUpdated": "2026-05-05T15:00:00Z"
   },
   {
     "name": "Authentiq",
@@ -334,23 +322,23 @@
     "recentActivity": [
       {
         "date": "5/5 9:01am",
-        "text": "\ud83e\udd16 Dashboard refresh: No new Authentiq signal; chip-auth priority remains."
+        "text": "🤖 Dashboard refresh: No new Authentiq signal; chip-auth priority remains."
       },
       {
         "date": "4/21",
-        "text": "\ud83d\udcbe Troy 'custom USBs' thread active - 46 msgs deep (9:28am)"
+        "text": "💾 Troy 'custom USBs' thread active - 46 msgs deep (9:28am)"
       },
       {
         "date": "4/21",
-        "text": "\ud83d\udcc7 Dil P (yo.vc) - 500 Mirrored Metal NFC Business Cards print quote request"
+        "text": "📇 Dil P (yo.vc) - 500 Mirrored Metal NFC Business Cards print quote request"
       },
       {
         "date": "4/15",
-        "text": "\ud83d\udcc4 Features doc created and sent to Troy for review"
+        "text": "📄 Features doc created and sent to Troy for review"
       },
       {
         "date": "4/14",
-        "text": "\ud83c\udd95 Project created from 'Authentic Chat' Fireflies call"
+        "text": "🆕 Project created from 'Authentic Chat' Fireflies call"
       }
     ],
     "people": [
@@ -397,9 +385,9 @@
       }
     ],
     "status": "active",
-    "updated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
     "alert": "Chip-auth quick-launch priority",
-    "lastUpdated": "2026-05-05T13:01:00Z"
+    "lastUpdated": "2026-05-05T15:00:00Z"
   },
   {
     "name": "Kids Vitamin Brand",
@@ -408,23 +396,23 @@
     "recentActivity": [
       {
         "date": "5/5 9:01am",
-        "text": "\ud83d\udd15 1:01pm refresh: no new kids-vitamin / Left Lane signal; portfolio incubator framework remains the next deliverable."
+        "text": "🔕 1:01pm refresh: no new kids-vitamin / Left Lane signal; portfolio incubator framework remains the next deliverable."
       },
       {
         "date": "4/30",
-        "text": "\ud83d\udd15 12:06pm refresh: no Kids Vitamin-specific Slack, email, calendar, or Fireflies signal."
+        "text": "🔕 12:06pm refresh: no Kids Vitamin-specific Slack, email, calendar, or Fireflies signal."
       },
       {
         "date": "4/30",
-        "text": "\ud83d\udd0e 10:05am refresh: no new Kids Vitamin / Left Lane signal surfaced."
+        "text": "🔎 10:05am refresh: no new Kids Vitamin / Left Lane signal surfaced."
       },
       {
         "date": "4/29",
-        "text": "\ud83d\udd15 5pm Slack scan: no new kids-vitamin/YoSharma project messages"
+        "text": "🔕 5pm Slack scan: no new kids-vitamin/YoSharma project messages"
       },
       {
         "date": "4/29",
-        "text": "\ud83e\udde0 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
+        "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
       }
     ],
     "people": [
@@ -442,26 +430,18 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-04-30T17:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
     "alert": null,
-    "lastUpdated": "2026-04-30T17:01:00Z"
+    "lastUpdated": "2026-05-05T15:00:00Z"
   },
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Tue 5/5 9:01am ET. Follow-up call completed this morning. Ready to move forward.",
+    "currentStatus": "Tue 5/5 11:00am ET. Morning check-in completed 8:30am.",
     "recentActivity": [
       {
         "date": "5/5 8:30am",
-        "text": "\u2705 Flexpower follow-up call completed - status confirmed."
-      },
-      {
-        "date": "5/1 7:30am",
-        "text": "\ud83d\udcc5 Calendar reminder fired - Flexpower follow-up initiated"
-      },
-      {
-        "date": "4/30",
-        "text": "\ud83d\udcc5 Text reminder set for Fri 5/1 7:30am if no reply"
+        "text": "📅 Morning check-in completed"
       }
     ],
     "people": [
@@ -500,8 +480,8 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T13:01:00Z",
+    "updated": "2026-05-05T15:00:00Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T13:01:00Z"
+    "lastUpdated": "2026-05-05T15:00:00Z"
   }
 ]
