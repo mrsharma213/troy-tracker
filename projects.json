@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Tue 5/5 11:00am ET. Transaction bonus plan finalization Fri 5/8 2:30pm. Next up: Zurp Check-In 1pm today, YoSharma Check-In 3pm today.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Zurp Check-In 1pm (starting), Workweek 1:30pm, After Ours 2pm, YoSharma 3pm, Limited Supply 4pm. Transaction bonus finalization Fri 5/8 2:30pm.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/5 11:00am",
-        "text": "🤖 Dashboard refresh executed - all meetings confirmed"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard auto-refresh cron - 1:01pm check-in live"
       },
       {
         "date": "5/5 9:01am",
@@ -86,19 +86,19 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Tue 5/5 11:00am ET. Fund operations continuing. Active pitch: Postcard (300K users, $4M raise). Deal flow review active.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Fund operations steady. Postcard pitch (300K users, $4M raise) in pipeline. Deal flow review ongoing.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/5 11:00am",
-        "text": "🤖 Dashboard refresh - deal flow review ongoing"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard auto-refresh - deal pipeline healthy"
       },
       {
         "date": "5/4 9:01am",
@@ -150,18 +150,18 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "needsAttention": null
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Tue 5/5 9:01am ET. Patreon track uploads active (multiple unreleased IDs queued). After Ours Sync scheduled today 2pm. Production work progressing. May 20 deadline for May 22 release.",
+    "currentStatus": "Tue 5/5 1:01pm ET. After Ours Sync incoming 2pm. Patreon track uploads active (queued IDs in pipeline). May 20 deadline for May 22 release.",
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "📅 After Ours Sync scheduled today 2pm"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh - sync prep ongoing"
       },
       {
         "date": "5/4 11:00pm",
@@ -213,18 +213,18 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "needsAttention": null
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "Tue 5/5 11:00am ET. Production operations steady.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Weekly dinner service on schedule.",
     "recentActivity": [
       {
-        "date": "5/5 11:00am",
+        "date": "5/5 1:01pm",
         "text": "🤖 Dashboard refresh"
       }
     ],
@@ -244,17 +244,17 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Tue 5/5 11:00am ET. Day 18 post-launch. Rameez finalizing tumbler order ($4.5/pc).",
+    "currentStatus": "Tue 5/5 1:01pm ET. Day 18 post-launch. Rameez finalizing tumbler procurement ($4.5/pc with lid).",
     "recentActivity": [
       {
-        "date": "5/5 11:00am",
-        "text": "🤖 Dashboard refresh - procurement on track"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh - procurement pipeline active"
       },
       {
         "date": "5/4 12:39pm",
@@ -310,19 +310,19 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "alert": null,
     "needsAttention": null,
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Authentiq",
     "desc": "NFC-based authentication platform for high-value consumer goods.",
-    "currentStatus": "Tue 5/5 9:01am ET. Chip-auth quick launch remains priority while backend finalizes. No newer signal from Slack/email in morning scan.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Chip-auth quick launch remains priority while backend finalizes. No new signal in latest refresh cycle.",
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "🤖 Dashboard refresh: No new Authentiq signal; chip-auth priority remains."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Chip-auth priority maintained."
       },
       {
         "date": "4/21",
@@ -385,18 +385,18 @@
       }
     ],
     "status": "active",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "alert": "Chip-auth quick-launch priority",
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Tue 5/5 9:01am ET. No new Slack/email/Fireflies signal in this refresh. Left Lane portfolio brand-incubator thesis remains the latest strategic direction; next deliverable is the equity-split + CEO-per-brand framework doc.",
+    "currentStatus": "Tue 5/5 1:01pm ET. No new Slack/email/Fireflies signal in latest refresh. Left Lane portfolio incubator thesis remains in focus; next: equity-split + CEO-per-brand framework doc.",
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "🔕 1:01pm refresh: no new kids-vitamin / Left Lane signal; portfolio incubator framework remains the next deliverable."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Kids Vitamin silent; portfolio incubator framework still next."
       },
       {
         "date": "4/30",
@@ -430,15 +430,19 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Tue 5/5 11:00am ET. Morning check-in completed 8:30am.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Morning check-in completed 8:30am. No new updates in latest refresh.",
     "recentActivity": [
+      {
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh - status unchanged"
+      },
       {
         "date": "5/5 8:30am",
         "text": "📅 Morning check-in completed"
@@ -480,8 +484,8 @@
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "alert": null,
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   }
 ]
