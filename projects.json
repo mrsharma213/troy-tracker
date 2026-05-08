@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Fri 5/8 11:00am ET. Today: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan Finalization (2:30pm), Maruchan x Nik (3pm), After Ours walk-through (4pm). Friday push week.",
+    "currentStatus": "Fri 5/8 5:00pm ET. EXECUTION DAY wrapped. Major milestones completed: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan finalized (2:30pm), Maruchan sync done, After Ours walk-through (4pm). Next: Jeremy D's Birthday Sat 5/9. Operations on track.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Dashboard refresh (Fri evening) - execution day wrap"
+      },
       {
         "date": "5/8 9:01am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -16,10 +20,6 @@
       {
         "date": "5/5 3:00pm",
         "text": "✅ YoSharma Check-In completed"
-      },
-      {
-        "date": "5/5 1:00pm",
-        "text": "✅ Zurp Check-In completed"
       }
     ],
     "people": [
@@ -66,12 +66,20 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Fri 5/8 2:30pm",
-        "event": "Finalize Transaction Bonus Plan (Drive Link)"
+        "date": "Sat 5/9 10:00am-12:00pm",
+        "event": "Ads"
       },
       {
-        "date": "Sat 5/9",
-        "event": "Jeremy D's Birthday"
+        "date": "Sat 5/9 12:30pm-1:30pm",
+        "event": "Stretch"
+      },
+      {
+        "date": "Sat 5/9 all-day",
+        "event": "🎂 Jeremy D's Birthday"
+      },
+      {
+        "date": "Sat 5/9 5:00pm-1:00am",
+        "event": "🎉 THOSE NIGHTS at Arlo Williamsburg"
       }
     ],
     "links": [],
@@ -87,15 +95,19 @@
     ],
     "status": "on-track",
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Fri 5/8 11:00am ET. Fund operations continuing. Deal flow review ongoing. Portfolio management active. Scheduled: Rolling Ventures TB (1:30pm). Active pitch: Postcard (300K monthly users, raising $4M).",
+    "currentStatus": "Fri 5/8 5:00pm ET. Fund operations continuing. Rolling Ventures TB completed (1:30pm). Deal flow review ongoing. Portfolio management active. Active pitch: Postcard (300K monthly users, raising $4M). Weekend ahead: Jeremy D's Birthday celebrations.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Dashboard refresh (Fri evening)"
+      },
       {
         "date": "5/8 9:01am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -107,10 +119,6 @@
       {
         "date": "5/5 8:30am",
         "text": "✅ Flexpower portfolio check completed"
-      },
-      {
-        "date": "5/4 9:01am",
-        "text": "📧 Postcard pitch - 300K monthly organic users, raising $4M"
       }
     ],
     "people": [
@@ -142,8 +150,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Fri 5/8 1:30pm",
-        "event": "Rolling Ventures TB"
+        "date": "Sat 5/9",
+        "event": "Jeremy D's Birthday"
       }
     ],
     "links": [],
@@ -159,14 +167,18 @@
     ],
     "status": "on-track",
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "needsAttention": null
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Fri 5/8 11:00am ET. Music production continuing. Eden x After Ours walk-through scheduled (4pm). Track uploads active. May 20 deadline for May 22 release.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Music production on track. Eden x After Ours walk-through completed (4pm). Track uploads active. May 20 deadline for May 22 release holds firm. All deliverables on schedule.",
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Eden x After Ours walk-through completed (4pm)"
+      },
       {
         "date": "5/8 9:01am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -178,10 +190,6 @@
       {
         "date": "5/5 2:00pm",
         "text": "🎧 After Ours Sync completed"
-      },
-      {
-        "date": "5/4 11:00pm",
-        "text": "🎵 Patreon: Multiple unreleased tracks queued"
       }
     ],
     "people": [
@@ -211,12 +219,7 @@
         "role": "Team"
       }
     ],
-    "upcomingEvents": [
-      {
-        "date": "Fri 5/8 4pm",
-        "text": "🎵 Eden x After Ours Walk Through"
-      }
-    ],
+    "upcomingEvents": [],
     "links": [],
     "decisions": [
       {
