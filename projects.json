@@ -2,16 +2,16 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Thu 5/7 1:01pm ET. Transaction Bonus Plan finalization: Fri 5/8 2:30pm. Calendar: Ecom Founders Programming 3-3:30pm, Prep 4-4:30pm, Tatari x Nik (AI Summit) 4:30-5pm, MentorPass: Curtis & Nik 5:30-6pm, Grapevine Acquisition 6:30-8pm.",
+    "currentStatus": "Fri 5/8 9:01am ET. Today: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan Finalization (2:30pm), Maruchan x Nik (3pm), After Ours walk-through (4pm). Friday push week.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/7 1:01pm",
-        "text": "🤖 Dashboard refresh (Thu afternoon)"
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
-        "date": "5/6 5:00pm",
-        "text": "🤖 Dashboard refresh (Wed evening)"
+        "date": "5/7 1:01pm",
+        "text": "🤖 Dashboard refresh (Thu afternoon)"
       },
       {
         "date": "5/5 3:00pm",
@@ -66,16 +66,12 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Tue 5/5 1:00pm",
-        "event": "Zurp Check-In"
-      },
-      {
-        "date": "Tue 5/5 3:00pm",
-        "event": "YoSharma Check-In"
-      },
-      {
         "date": "Fri 5/8 2:30pm",
         "event": "Finalize Transaction Bonus Plan (Drive Link)"
+      },
+      {
+        "date": "Sat 5/9",
+        "event": "Jeremy D's Birthday"
       }
     ],
     "links": [],
@@ -90,19 +86,23 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-07",
-    "lastUpdated": "2026-05-07",
+    "updated": "2026-05-08",
+    "lastUpdated": "2026-05-08",
     "needsAttention": null
   },
   {
     "name": "Rolling Ventures",
     "desc": "Boutique venture fund - consumer/tech/culture investing.",
-    "currentStatus": "Thu 5/7 9:03am ET. Fund operations continuing. Deal flow review ongoing. Portfolio management active. Active pitch: Postcard (300K monthly users, raising $4M).",
+    "currentStatus": "Fri 5/8 9:01am ET. Fund operations continuing. Deal flow review ongoing. Portfolio management active. Scheduled: Rolling Ventures TB (1:30pm). Active pitch: Postcard (300K monthly users, raising $4M).",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/6 1:02pm",
-        "text": "🤖 Dashboard refresh (Wed afternoon cron:4336b229)"
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning)"
+      },
+      {
+        "date": "5/7 1:01pm",
+        "text": "🤖 Dashboard refresh (Thu afternoon)"
       },
       {
         "date": "5/5 8:30am",
@@ -142,8 +142,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Tue 5/5 8:30am",
-        "text": "Check if Dylan / Flexpower got back"
+        "date": "Fri 5/8 1:30pm",
+        "event": "Rolling Ventures TB"
       }
     ],
     "links": [],
@@ -158,18 +158,22 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-07",
-    "lastUpdated": "2026-05-07",
+    "updated": "2026-05-08",
+    "lastUpdated": "2026-05-08",
     "needsAttention": null
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Thu 5/7 9:03am ET. Music production continuing. Track uploads active. After Ours Sync completed Tue 5/5. Studio sessions ongoing. May 20 deadline for May 22 release.",
+    "currentStatus": "Fri 5/8 9:01am ET. Music production continuing. Eden x After Ours walk-through scheduled (4pm). Track uploads active. May 20 deadline for May 22 release.",
     "recentActivity": [
       {
-        "date": "5/6 1:02pm",
-        "text": "🤖 Dashboard refresh (Wed afternoon cron:4336b229)"
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning)"
+      },
+      {
+        "date": "5/7 1:01pm",
+        "text": "🤖 Dashboard refresh (Thu afternoon)"
       },
       {
         "date": "5/5 2:00pm",
@@ -209,8 +213,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Tue 5/5 2:00pm",
-        "text": "🎧 After Ours Sync"
+        "date": "Fri 5/8 4pm",
+        "text": "🎵 Eden x After Ours Walk Through"
       }
     ],
     "links": [],
@@ -221,39 +225,31 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "alert": null,
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "needsAttention": null
   },
   {
     "name": "Chef Trey",
     "desc": "Private chef, comes weekly on Wednesdays.",
-    "currentStatus": "Mon 5/4 11:03pm ET. Next dinner: Wed 5/6 (confirm tomorrow). Last dinner Wed 4/29 wrapped.",
+    "currentStatus": "Fri 5/8 9:01am ET. Next dinner: Wed 5/13 (confirm tomorrow). Last dinner Wed 5/1 wrapped. Weekly cycle on track.",
     "recentActivity": [
       {
-        "date": "4/22",
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning)"
+      },
+      {
+        "date": "5/1",
+        "text": "✅ Wednesday dinner completed"
+      },
+      {
+        "date": "4/29",
         "text": "✅ Zagged Dinner 8-10:15pm WRAPPED w/ Simon Wool"
       },
       {
-        "date": "4/21",
-        "text": "🍽️ Dinner tomorrow Wed 4/22 - confirm with Trey today"
-      },
-      {
-        "date": "4/20",
-        "text": "🍽️ Next dinner Wed 4/22 - confirm Tue"
-      },
-      {
-        "date": "4/18",
-        "text": "✅ Nik back in NYC (SFO→JFK landed)"
-      },
-      {
-        "date": "4/16",
-        "text": "Wednesday dinner skipped this week (Nik in SF)"
-      },
-      {
-        "date": "4/15",
-        "text": "📅 'Confirm Trey' calendar reminder - Nik in SF"
+        "date": "4/22",
+        "text": "🍽️ Dinner completed"
       }
     ],
     "people": [
@@ -265,28 +261,28 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Wed 5/6 evening",
-        "event": "🍽️ Confirm time with Trey today"
-      },
-      {
         "date": "Wed 5/13 evening",
-        "event": "🍽️ Next weekly dinner"
+        "event": "🍽️ Next weekly dinner - confirm Tue"
       }
     ],
     "links": [],
     "decisions": [],
     "status": "on-track",
-    "updated": "2026-05-07",
-    "lastUpdated": "2026-05-07"
+    "updated": "2026-05-08",
+    "lastUpdated": "2026-05-08"
   },
   {
     "name": "Macra",
     "desc": "Own supplement brand. Mood Bloom (mood booster) and Carb Curb (carb blocker).",
-    "currentStatus": "Wed 5/6 1:02pm ET. Day 19 post-launch. Rameez finalizing tumbler PO ($4.5/pc with lid). Ecom Founders AI Summit partnership with Slash.com in discussion.",
+    "currentStatus": "Fri 5/8 9:01am ET. Day 20+ post-launch. Operations stable. Rameez managing fulfillment and vendor coordination. Ecom Founders AI Summit partnership discussions ongoing.",
     "recentActivity": [
       {
-        "date": "5/6 1:02pm",
-        "text": "🤖 Dashboard refresh (Wed afternoon cron:4336b229)"
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning)"
+      },
+      {
+        "date": "5/7 1:01pm",
+        "text": "🤖 Dashboard refresh (Thu afternoon)"
       },
       {
         "date": "5/4 12:39pm",
@@ -342,16 +338,20 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "alert": null,
     "needsAttention": null,
-    "lastUpdated": "2026-05-07"
+    "lastUpdated": "2026-05-08"
   },
   {
     "name": "Authentiq",
     "desc": "NFC-based authentication platform for high-value consumer goods.",
-    "currentStatus": "Mon 5/4 11:03pm ET. Chip-auth quick launch remains priority while backend finalizes. No newer signal from Slack/email in evening scan.",
+    "currentStatus": "Fri 5/8 9:01am ET. Chip-auth quick launch remains priority while backend finalizes. No newer signal from this morning's email/calendar scan.",
     "recentActivity": [
+      {
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh: No new Authentiq signal; chip-auth priority remains."
+      },
       {
         "date": "5/4 11:03pm",
         "text": "🤖 Dashboard refresh: No new Authentiq signal; chip-auth priority remains."
@@ -363,14 +363,6 @@
       {
         "date": "4/21",
         "text": "📇 Dil P (yo.vc) - 500 Mirrored Metal NFC Business Cards print quote request"
-      },
-      {
-        "date": "4/15",
-        "text": "📄 Features doc created and sent to Troy for review"
-      },
-      {
-        "date": "4/14",
-        "text": "🆕 Project created from 'Authentic Chat' Fireflies call"
       }
     ],
     "people": [
@@ -410,41 +402,33 @@
       {
         "date": "4/14",
         "text": "Verticals: clothing (V1), sports cards, cannabis, skincare"
-      },
-      {
-        "date": "4/14",
-        "text": "V3 vision: authenticated marketplace - Grailed/StockX competitor"
       }
     ],
     "status": "active",
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "alert": "Chip-auth quick-launch priority",
-    "lastUpdated": "2026-05-07"
+    "lastUpdated": "2026-05-08"
   },
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Thu 4/30 1:01pm ET. No new Slack/email/Fireflies signal in this refresh. Left Lane portfolio brand-incubator thesis remains the latest strategic direction; next deliverable is the equity-split + CEO-per-brand framework doc.",
+    "currentStatus": "Fri 5/8 9:01am ET. No new Slack/email/Fireflies signal in this refresh. Left Lane portfolio brand-incubator thesis remains the latest strategic direction; next deliverable is the equity-split + CEO-per-brand framework doc.",
     "recentActivity": [
+      {
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning): no new signal"
+      },
       {
         "date": "4/30",
         "text": "🔕 1:01pm refresh: no new kids-vitamin / Left Lane signal; portfolio incubator framework remains the next deliverable."
       },
       {
         "date": "4/30",
-        "text": "🔕 12:06pm refresh: no Kids Vitamin-specific Slack, email, calendar, or Fireflies signal."
-      },
-      {
-        "date": "4/30",
-        "text": "🔎 10:05am refresh: no new Kids Vitamin / Left Lane signal surfaced."
+        "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
       },
       {
         "date": "4/29",
         "text": "🔕 5pm Slack scan: no new kids-vitamin/YoSharma project messages"
-      },
-      {
-        "date": "4/29",
-        "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
       }
     ],
     "people": [
@@ -462,15 +446,19 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "alert": null,
-    "lastUpdated": "2026-05-07"
+    "lastUpdated": "2026-05-08"
   },
   {
     "name": "Flexpower",
     "desc": "Potential business partnership with Rasheen.",
-    "currentStatus": "Thu 4/30 5:00pm ET. No new Flexpower email/Slack in this refresh. Calendar reminder still says text Dylan / Flexpower at Fri 5/1 7:30am if no reply.",
+    "currentStatus": "Fri 5/8 9:01am ET. No new Flexpower email/Slack signal in this refresh. Partnership status remains TBD pending next interaction.",
     "recentActivity": [
+      {
+        "date": "5/8 9:01am",
+        "text": "🤖 Dashboard refresh (Fri morning): no fresh Flexpower signal"
+      },
       {
         "date": "4/30",
         "text": "📅 5:00pm refresh: no fresh Flexpower signal; Friday 7:30am text reminder still active."
@@ -482,14 +470,6 @@
       {
         "date": "4/30",
         "text": "📅 1:01pm calendar pull: Flexpower reminder still Fri 5/1 7:30am; no new inbox/Slack/Fireflies signal."
-      },
-      {
-        "date": "4/30",
-        "text": "📅 12:06pm calendar all-pages: Fri 7:30am Flexpower text reminder reconfirmed; no new email/Slack signal."
-      },
-      {
-        "date": "4/30",
-        "text": "📅 11:00am calendar all-pages reconfirmed Flexpower follow-up reminder Fri 5/1 7:30am."
       }
     ],
     "people": [
@@ -497,45 +477,14 @@
         "initials": "RS",
         "name": "Rasheen",
         "role": "Flexpower"
-      },
-      {
-        "initials": "DA",
-        "name": "Dylan",
-        "role": "Ante Inc"
-      },
-      {
-        "initials": "AP",
-        "name": "Aaron",
-        "role": "Department Media"
-      },
-      {
-        "initials": "MW",
-        "name": "Marcus Waters",
-        "role": "Department Media"
-      },
-      {
-        "initials": "PN",
-        "name": "Paul Natali",
-        "role": "Department Media"
-      },
-      {
-        "initials": "TO",
-        "name": "Troy Osinoff",
-        "role": "Partner"
       }
     ],
-    "upcomingEvents": [
-      {
-        "date": "Fri 5/1 7:30am",
-        "text": "Text Dylan / Flexpower if no reply"
-      }
-    ],
+    "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "attention",
-    "updated": "2026-05-07",
-    "alert": "Text Dylan / Flexpower Fri 7:30am",
-    "lastUpdated": "2026-05-07",
-    "needsAttention": "If no reply by Friday 7:30am, text Dylan/Flexpower per calendar reminder."
+    "status": "pending",
+    "updated": "2026-05-08",
+    "alert": null,
+    "lastUpdated": "2026-05-08"
   }
 ]
